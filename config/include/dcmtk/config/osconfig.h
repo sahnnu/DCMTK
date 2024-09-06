@@ -1164,10 +1164,7 @@ typedef unsigned long ulong;
 /* Define if we can use C++11 */
 #define HAVE_CXX11 1
 
-#if defined(HAVE_CXX11) && defined(__cplusplus) && __cplusplus < 201103L
-#error \
-DCMTK was configured to use C++11 features, but your compiler does not or was not configured to provide them.
-#endif
+
 
 /* Define if we can use C++14 */
 /* #undef HAVE_CXX14 */
