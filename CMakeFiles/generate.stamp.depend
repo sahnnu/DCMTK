@@ -1,0 +1,70 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/CMake/share/cmake-3.30/Modules/BasicConfigVersion-SameMajorVersion.cmake.in
+C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeCInformation.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeCXXInformation.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeCheckCompilerFlagCommonPatterns.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeCommonLanguageInclude.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeGenericSystem.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeInitializeConfigs.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeLanguageInformation.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/CMakePackageConfigHelpers.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeParseArguments.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeRCInformation.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeSystemSpecificInformation.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeSystemSpecificInitialize.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/CheckCXXCompilerFlag.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/CheckCXXSourceCompiles.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/CheckCXXSymbolExists.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/CheckFunctionExists.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/CheckIncludeFile.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/CheckIncludeFileCXX.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/CheckIncludeFiles.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/CheckLibraryExists.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/CheckSymbolExists.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/CheckTypeSize.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/Compiler/MSVC-C.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/Compiler/MSVC-CXX.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/Compiler/MSVC.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/GNUInstallDirs.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/Internal/CheckCompilerFlag.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/Internal/CheckFlagCommonConfig.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/Internal/CheckSourceCompiles.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/Platform/Windows-Initialize.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/Platform/Windows-MSVC-C.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/Platform/Windows-MSVC-CXX.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/Platform/Windows-MSVC.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/Platform/Windows.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/Platform/WindowsPaths.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/WriteBasicConfigVersionFile.cmake
+C:/Users/sahnn/Downloads/dcmtk-3.6.8/CMakeFiles/3.30.3/CMakeCCompiler.cmake
+C:/Users/sahnn/Downloads/dcmtk-3.6.8/CMakeFiles/3.30.3/CMakeCXXCompiler.cmake
+C:/Users/sahnn/Downloads/dcmtk-3.6.8/CMakeFiles/3.30.3/CMakeRCCompiler.cmake
+C:/Users/sahnn/Downloads/dcmtk-3.6.8/CMakeFiles/3.30.3/CMakeSystem.cmake
+C:/Users/sahnn/Downloads/dcmtk-3.6.8/dcmtk-3.6.8/CMake/3rdparty.cmake
+C:/Users/sahnn/Downloads/dcmtk-3.6.8/dcmtk-3.6.8/CMake/CTest/dcmtkCTestRun.cmake.in
+C:/Users/sahnn/Downloads/dcmtk-3.6.8/dcmtk-3.6.8/CMake/CheckCMakeCommandExists.cmake
+C:/Users/sahnn/Downloads/dcmtk-3.6.8/dcmtk-3.6.8/CMake/CheckFunctionWithHeaderExists.cmake
+C:/Users/sahnn/Downloads/dcmtk-3.6.8/dcmtk-3.6.8/CMake/DCMTKConfig.cmake.in
+C:/Users/sahnn/Downloads/dcmtk-3.6.8/dcmtk-3.6.8/CMake/GenerateCMakeExports.cmake
+C:/Users/sahnn/Downloads/dcmtk-3.6.8/dcmtk-3.6.8/CMake/GenerateDCMTKConfigure.cmake
+C:/Users/sahnn/Downloads/dcmtk-3.6.8/dcmtk-3.6.8/CMake/dcmtk.pc.in
+C:/Users/sahnn/Downloads/dcmtk-3.6.8/dcmtk-3.6.8/CMake/dcmtkAfterModules.cmake
+C:/Users/sahnn/Downloads/dcmtk-3.6.8/dcmtk-3.6.8/CMake/dcmtkMacros.cmake
+C:/Users/sahnn/Downloads/dcmtk-3.6.8/dcmtk-3.6.8/CMake/dcmtkPrepare.cmake
+C:/Users/sahnn/Downloads/dcmtk-3.6.8/dcmtk-3.6.8/CMake/dcmtkTryCompile.cmake
+C:/Users/sahnn/Downloads/dcmtk-3.6.8/dcmtk-3.6.8/CMake/dcmtkTryRun.cmake
+C:/Users/sahnn/Downloads/dcmtk-3.6.8/dcmtk-3.6.8/CMake/osconfig.h.in
+C:/Users/sahnn/Downloads/dcmtk-3.6.8/dcmtk-3.6.8/CMakeLists.txt
+C:/Users/sahnn/Downloads/dcmtk-3.6.8/dcmtk-3.6.8/config/tests/algo.cc
+C:/Users/sahnn/Downloads/dcmtk-3.6.8/dcmtk-3.6.8/config/tests/cxx11.cc
+C:/Users/sahnn/Downloads/dcmtk-3.6.8/dcmtk-3.6.8/config/tests/limits.cc
+C:/Users/sahnn/Downloads/dcmtk-3.6.8/dcmtk-3.6.8/config/tests/list.cc
+C:/Users/sahnn/Downloads/dcmtk-3.6.8/dcmtk-3.6.8/config/tests/map.cc
+C:/Users/sahnn/Downloads/dcmtk-3.6.8/dcmtk-3.6.8/config/tests/memory.cc
+C:/Users/sahnn/Downloads/dcmtk-3.6.8/dcmtk-3.6.8/config/tests/stack.cc
+C:/Users/sahnn/Downloads/dcmtk-3.6.8/dcmtk-3.6.8/config/tests/string.cc
+C:/Users/sahnn/Downloads/dcmtk-3.6.8/dcmtk-3.6.8/config/tests/syserr.cc
+C:/Users/sahnn/Downloads/dcmtk-3.6.8/dcmtk-3.6.8/config/tests/ttraits.cc
+C:/Users/sahnn/Downloads/dcmtk-3.6.8/dcmtk-3.6.8/config/tests/tuple.cc
+C:/Users/sahnn/Downloads/dcmtk-3.6.8/dcmtk-3.6.8/config/tests/vector.cc

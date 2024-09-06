@@ -1,0 +1,3349 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\ofstd\libsrc\ofstd_obj.dir\$(Configuration)\ofchrenc.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\ofstd\libsrc\ofstd_obj.dir\$(Configuration)\ofcmdln.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\ofstd\libsrc\ofstd_obj.dir\$(Configuration)\ofconapp.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\ofstd\libsrc\ofstd_obj.dir\$(Configuration)\ofcond.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\ofstd\libsrc\ofstd_obj.dir\$(Configuration)\ofconfig.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\ofstd\libsrc\ofstd_obj.dir\$(Configuration)\ofconsol.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\ofstd\libsrc\ofstd_obj.dir\$(Configuration)\ofcrc32.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\ofstd\libsrc\ofstd_obj.dir\$(Configuration)\ofdate.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\ofstd\libsrc\ofstd_obj.dir\$(Configuration)\ofdatime.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\ofstd\libsrc\ofstd_obj.dir\$(Configuration)\oferror.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\ofstd\libsrc\ofstd_obj.dir\$(Configuration)\offile.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\ofstd\libsrc\ofstd_obj.dir\$(Configuration)\offilsys.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\ofstd\libsrc\ofstd_obj.dir\$(Configuration)\offname.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\ofstd\libsrc\ofstd_obj.dir\$(Configuration)\ofipc.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\ofstd\libsrc\ofstd_obj.dir\$(Configuration)\oflist.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\ofstd\libsrc\ofstd_obj.dir\$(Configuration)\ofstd.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\ofstd\libsrc\ofstd_obj.dir\$(Configuration)\ofstring.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\ofstd\libsrc\ofstd_obj.dir\$(Configuration)\ofstrutl.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\ofstd\libsrc\ofstd_obj.dir\$(Configuration)\ofthread.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\ofstd\libsrc\ofstd_obj.dir\$(Configuration)\oftime.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\ofstd\libsrc\ofstd_obj.dir\$(Configuration)\oftimer.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\ofstd\libsrc\ofstd_obj.dir\$(Configuration)\oftempf.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\ofstd\libsrc\ofstd_obj.dir\$(Configuration)\ofxml.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\ofstd\libsrc\ofstd_obj.dir\$(Configuration)\ofuuid.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\ofstd\libsrc\ofstd_obj.dir\$(Configuration)\ofmath.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\ofstd\libsrc\ofstd_obj.dir\$(Configuration)\ofsockad.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\ofstd\libsrc\ofstd_obj.dir\$(Configuration)\ofrand.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\oflog\libsrc\oflog_obj.dir\$(Configuration)\apndimpl.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\oflog\libsrc\oflog_obj.dir\$(Configuration)\appender.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\oflog\libsrc\oflog_obj.dir\$(Configuration)\asyncap.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\oflog\libsrc\oflog_obj.dir\$(Configuration)\clogger.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\oflog\libsrc\oflog_obj.dir\$(Configuration)\config.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\oflog\libsrc\oflog_obj.dir\$(Configuration)\consap.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\oflog\libsrc\oflog_obj.dir\$(Configuration)\cygwin32.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\oflog\libsrc\oflog_obj.dir\$(Configuration)\env.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\oflog\libsrc\oflog_obj.dir\$(Configuration)\factory.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\oflog\libsrc\oflog_obj.dir\$(Configuration)\fileap.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\oflog\libsrc\oflog_obj.dir\$(Configuration)\fileinfo.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\oflog\libsrc\oflog_obj.dir\$(Configuration)\filter.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\oflog\libsrc\oflog_obj.dir\$(Configuration)\globinit.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\oflog\libsrc\oflog_obj.dir\$(Configuration)\hierarchy.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\oflog\libsrc\oflog_obj.dir\$(Configuration)\hierlock.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\oflog\libsrc\oflog_obj.dir\$(Configuration)\layout.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\oflog\libsrc\oflog_obj.dir\$(Configuration)\lloguser.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\oflog\libsrc\oflog_obj.dir\$(Configuration)\lockfile.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\oflog\libsrc\oflog_obj.dir\$(Configuration)\log4judp.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\oflog\libsrc\oflog_obj.dir\$(Configuration)\logevent.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\oflog\libsrc\oflog_obj.dir\$(Configuration)\logger.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\oflog\libsrc\oflog_obj.dir\$(Configuration)\logimpl.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\oflog\libsrc\oflog_obj.dir\$(Configuration)\loglevel.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\oflog\libsrc\oflog_obj.dir\$(Configuration)\loglog.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\oflog\libsrc\oflog_obj.dir\$(Configuration)\logmacro.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\oflog\libsrc\oflog_obj.dir\$(Configuration)\mdc.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\oflog\libsrc\oflog_obj.dir\$(Configuration)\ndc.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\oflog\libsrc\oflog_obj.dir\$(Configuration)\ntelogap.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\oflog\libsrc\oflog_obj.dir\$(Configuration)\nullap.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\oflog\libsrc\oflog_obj.dir\$(Configuration)\objreg.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\oflog\libsrc\oflog_obj.dir\$(Configuration)\oflog.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\oflog\libsrc\oflog_obj.dir\$(Configuration)\patlay.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\oflog\libsrc\oflog_obj.dir\$(Configuration)\pointer.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\oflog\libsrc\oflog_obj.dir\$(Configuration)\property.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\oflog\libsrc\oflog_obj.dir\$(Configuration)\queue.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\oflog\libsrc\oflog_obj.dir\$(Configuration)\rootlog.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\oflog\libsrc\oflog_obj.dir\$(Configuration)\sleep.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\oflog\libsrc\oflog_obj.dir\$(Configuration)\snprintf.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\oflog\libsrc\oflog_obj.dir\$(Configuration)\sockbuff.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\oflog\libsrc\oflog_obj.dir\$(Configuration)\socket.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\oflog\libsrc\oflog_obj.dir\$(Configuration)\socketap.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\oflog\libsrc\oflog_obj.dir\$(Configuration)\strccloc.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\oflog\libsrc\oflog_obj.dir\$(Configuration)\strcloc.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\oflog\libsrc\oflog_obj.dir\$(Configuration)\strhelp.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\oflog\libsrc\oflog_obj.dir\$(Configuration)\striconv.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\oflog\libsrc\oflog_obj.dir\$(Configuration)\syncprims.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\oflog\libsrc\oflog_obj.dir\$(Configuration)\syslogap.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\oflog\libsrc\oflog_obj.dir\$(Configuration)\threads.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\oflog\libsrc\oflog_obj.dir\$(Configuration)\timehelp.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\oflog\libsrc\oflog_obj.dir\$(Configuration)\tls.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\oflog\libsrc\oflog_obj.dir\$(Configuration)\version.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\oflog\libsrc\oflog_obj.dir\$(Configuration)\winsock.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\oflog\libsrc\oflog_obj.dir\$(Configuration)\windebap.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\oflog\libsrc\oflog_obj.dir\$(Configuration)\winconap.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\oficonv\libsrc\oficonv_obj.dir\$(Configuration)\citrus_bcs.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\oficonv\libsrc\oficonv_obj.dir\$(Configuration)\citrus_bcs_strtol.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\oficonv\libsrc\oficonv_obj.dir\$(Configuration)\citrus_bcs_strtoul.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\oficonv\libsrc\oficonv_obj.dir\$(Configuration)\citrus_big5.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\oficonv\libsrc\oficonv_obj.dir\$(Configuration)\citrus_csmapper.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\oficonv\libsrc\oficonv_obj.dir\$(Configuration)\citrus_db.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\oficonv\libsrc\oficonv_obj.dir\$(Configuration)\citrus_db_factory.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\oficonv\libsrc\oficonv_obj.dir\$(Configuration)\citrus_db_hash.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\oficonv\libsrc\oficonv_obj.dir\$(Configuration)\citrus_dechanyu.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\oficonv\libsrc\oficonv_obj.dir\$(Configuration)\citrus_esdb.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\oficonv\libsrc\oficonv_obj.dir\$(Configuration)\citrus_euc.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\oficonv\libsrc\oficonv_obj.dir\$(Configuration)\citrus_euctw.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\oficonv\libsrc\oficonv_obj.dir\$(Configuration)\citrus_gbk2k.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\oficonv\libsrc\oficonv_obj.dir\$(Configuration)\citrus_hash.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\oficonv\libsrc\oficonv_obj.dir\$(Configuration)\citrus_hz.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\oficonv\libsrc\oficonv_obj.dir\$(Configuration)\citrus_iconv.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\oficonv\libsrc\oficonv_obj.dir\$(Configuration)\citrus_iconv_none.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\oficonv\libsrc\oficonv_obj.dir\$(Configuration)\citrus_iconv_std.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\oficonv\libsrc\oficonv_obj.dir\$(Configuration)\citrus_iso2022.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\oficonv\libsrc\oficonv_obj.dir\$(Configuration)\citrus_jisx0208.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\oficonv\libsrc\oficonv_obj.dir\$(Configuration)\citrus_johab.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\oficonv\libsrc\oficonv_obj.dir\$(Configuration)\citrus_lookup.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\oficonv\libsrc\oficonv_obj.dir\$(Configuration)\citrus_lookup_factory.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\oficonv\libsrc\oficonv_obj.dir\$(Configuration)\citrus_mapper_646.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\oficonv\libsrc\oficonv_obj.dir\$(Configuration)\citrus_mapper.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\oficonv\libsrc\oficonv_obj.dir\$(Configuration)\citrus_mapper_none.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\oficonv\libsrc\oficonv_obj.dir\$(Configuration)\citrus_mapper_serial.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\oficonv\libsrc\oficonv_obj.dir\$(Configuration)\citrus_mapper_std.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\oficonv\libsrc\oficonv_obj.dir\$(Configuration)\citrus_mapper_zone.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\oficonv\libsrc\oficonv_obj.dir\$(Configuration)\citrus_memstream.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\oficonv\libsrc\oficonv_obj.dir\$(Configuration)\citrus_mmap.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\oficonv\libsrc\oficonv_obj.dir\$(Configuration)\citrus_module.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\oficonv\libsrc\oficonv_obj.dir\$(Configuration)\citrus_mskanji.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\oficonv\libsrc\oficonv_obj.dir\$(Configuration)\citrus_none.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\oficonv\libsrc\oficonv_obj.dir\$(Configuration)\citrus_pivot_factory.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\oficonv\libsrc\oficonv_obj.dir\$(Configuration)\citrus_prop.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\oficonv\libsrc\oficonv_obj.dir\$(Configuration)\citrus_stdenc.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\oficonv\libsrc\oficonv_obj.dir\$(Configuration)\citrus_ues.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\oficonv\libsrc\oficonv_obj.dir\$(Configuration)\citrus_utf1632.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\oficonv\libsrc\oficonv_obj.dir\$(Configuration)\citrus_utf7.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\oficonv\libsrc\oficonv_obj.dir\$(Configuration)\citrus_utf8.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\oficonv\libsrc\oficonv_obj.dir\$(Configuration)\citrus_viqr.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\oficonv\libsrc\oficonv_obj.dir\$(Configuration)\citrus_zw.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\oficonv\libsrc\oficonv_obj.dir\$(Configuration)\oficonv_iconv.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\oficonv\libsrc\oficonv_obj.dir\$(Configuration)\oficonv_logger.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\oficonv\libsrc\oficonv_obj.dir\$(Configuration)\oficonv_strlcpy.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\oficonv\libsrc\oficonv_obj.dir\$(Configuration)\oficonv_strcasestr.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\oficonv\libsrc\oficonv_obj.dir\$(Configuration)\data_esdb.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\oficonv\libsrc\oficonv_obj.dir\$(Configuration)\data_csmapper.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmdata\libsrc\dcmdata_obj.dir\$(Configuration)\cmdlnarg.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmdata\libsrc\dcmdata_obj.dir\$(Configuration)\dcbytstr.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmdata\libsrc\dcmdata_obj.dir\$(Configuration)\dcchrstr.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmdata\libsrc\dcmdata_obj.dir\$(Configuration)\dccodec.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmdata\libsrc\dcmdata_obj.dir\$(Configuration)\dcdatset.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmdata\libsrc\dcmdata_obj.dir\$(Configuration)\dcdatutl.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmdata\libsrc\dcmdata_obj.dir\$(Configuration)\dcddirif.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmdata\libsrc\dcmdata_obj.dir\$(Configuration)\dcdicdir.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmdata\libsrc\dcmdata_obj.dir\$(Configuration)\dcdicent.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmdata\libsrc\dcmdata_obj.dir\$(Configuration)\dcdict.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmdata\libsrc\dcmdata_obj.dir\$(Configuration)\dcdictbi.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmdata\libsrc\dcmdata_obj.dir\$(Configuration)\dcdirrec.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmdata\libsrc\dcmdata_obj.dir\$(Configuration)\dcelem.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmdata\libsrc\dcmdata_obj.dir\$(Configuration)\dcencdoc.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmdata\libsrc\dcmdata_obj.dir\$(Configuration)\dcerror.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmdata\libsrc\dcmdata_obj.dir\$(Configuration)\dcfilefo.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmdata\libsrc\dcmdata_obj.dir\$(Configuration)\dcfilter.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmdata\libsrc\dcmdata_obj.dir\$(Configuration)\dchashdi.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmdata\libsrc\dcmdata_obj.dir\$(Configuration)\dcistrma.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmdata\libsrc\dcmdata_obj.dir\$(Configuration)\dcistrmb.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmdata\libsrc\dcmdata_obj.dir\$(Configuration)\dcistrmf.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmdata\libsrc\dcmdata_obj.dir\$(Configuration)\dcistrms.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmdata\libsrc\dcmdata_obj.dir\$(Configuration)\dcistrmz.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmdata\libsrc\dcmdata_obj.dir\$(Configuration)\dcitem.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmdata\libsrc\dcmdata_obj.dir\$(Configuration)\dcjson.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmdata\libsrc\dcmdata_obj.dir\$(Configuration)\dclist.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmdata\libsrc\dcmdata_obj.dir\$(Configuration)\dcmatch.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmdata\libsrc\dcmdata_obj.dir\$(Configuration)\dcmetinf.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmdata\libsrc\dcmdata_obj.dir\$(Configuration)\dcobject.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmdata\libsrc\dcmdata_obj.dir\$(Configuration)\dcostrma.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmdata\libsrc\dcmdata_obj.dir\$(Configuration)\dcostrmb.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmdata\libsrc\dcmdata_obj.dir\$(Configuration)\dcostrmf.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmdata\libsrc\dcmdata_obj.dir\$(Configuration)\dcostrms.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmdata\libsrc\dcmdata_obj.dir\$(Configuration)\dcostrmz.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmdata\libsrc\dcmdata_obj.dir\$(Configuration)\dcpath.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmdata\libsrc\dcmdata_obj.dir\$(Configuration)\dcpcache.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmdata\libsrc\dcmdata_obj.dir\$(Configuration)\dcpixel.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmdata\libsrc\dcmdata_obj.dir\$(Configuration)\dcpixseq.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmdata\libsrc\dcmdata_obj.dir\$(Configuration)\dcpxitem.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmdata\libsrc\dcmdata_obj.dir\$(Configuration)\dcrleccd.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmdata\libsrc\dcmdata_obj.dir\$(Configuration)\dcrlecce.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmdata\libsrc\dcmdata_obj.dir\$(Configuration)\dcrlecp.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmdata\libsrc\dcmdata_obj.dir\$(Configuration)\dcrledrg.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmdata\libsrc\dcmdata_obj.dir\$(Configuration)\dcrleerg.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmdata\libsrc\dcmdata_obj.dir\$(Configuration)\dcrlerp.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmdata\libsrc\dcmdata_obj.dir\$(Configuration)\dcsequen.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmdata\libsrc\dcmdata_obj.dir\$(Configuration)\dcspchrs.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmdata\libsrc\dcmdata_obj.dir\$(Configuration)\dcstack.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmdata\libsrc\dcmdata_obj.dir\$(Configuration)\dcswap.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmdata\libsrc\dcmdata_obj.dir\$(Configuration)\dctag.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmdata\libsrc\dcmdata_obj.dir\$(Configuration)\dctagkey.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmdata\libsrc\dcmdata_obj.dir\$(Configuration)\dctypes.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmdata\libsrc\dcmdata_obj.dir\$(Configuration)\dcuid.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmdata\libsrc\dcmdata_obj.dir\$(Configuration)\dcvr.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmdata\libsrc\dcmdata_obj.dir\$(Configuration)\dcvrae.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmdata\libsrc\dcmdata_obj.dir\$(Configuration)\dcvras.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmdata\libsrc\dcmdata_obj.dir\$(Configuration)\dcvrat.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmdata\libsrc\dcmdata_obj.dir\$(Configuration)\dcvrcs.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmdata\libsrc\dcmdata_obj.dir\$(Configuration)\dcvrda.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmdata\libsrc\dcmdata_obj.dir\$(Configuration)\dcvrds.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmdata\libsrc\dcmdata_obj.dir\$(Configuration)\dcvrdt.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmdata\libsrc\dcmdata_obj.dir\$(Configuration)\dcvrfd.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmdata\libsrc\dcmdata_obj.dir\$(Configuration)\dcvrfl.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmdata\libsrc\dcmdata_obj.dir\$(Configuration)\dcvris.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmdata\libsrc\dcmdata_obj.dir\$(Configuration)\dcvrlo.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmdata\libsrc\dcmdata_obj.dir\$(Configuration)\dcvrlt.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmdata\libsrc\dcmdata_obj.dir\$(Configuration)\dcvrobow.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmdata\libsrc\dcmdata_obj.dir\$(Configuration)\dcvrod.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmdata\libsrc\dcmdata_obj.dir\$(Configuration)\dcvrof.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmdata\libsrc\dcmdata_obj.dir\$(Configuration)\dcvrol.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmdata\libsrc\dcmdata_obj.dir\$(Configuration)\dcvrov.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmdata\libsrc\dcmdata_obj.dir\$(Configuration)\dcvrpn.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmdata\libsrc\dcmdata_obj.dir\$(Configuration)\dcvrpobw.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmdata\libsrc\dcmdata_obj.dir\$(Configuration)\dcvrsh.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmdata\libsrc\dcmdata_obj.dir\$(Configuration)\dcvrsl.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmdata\libsrc\dcmdata_obj.dir\$(Configuration)\dcvrss.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmdata\libsrc\dcmdata_obj.dir\$(Configuration)\dcvrst.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmdata\libsrc\dcmdata_obj.dir\$(Configuration)\dcvrsv.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmdata\libsrc\dcmdata_obj.dir\$(Configuration)\dcvrtm.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmdata\libsrc\dcmdata_obj.dir\$(Configuration)\dcvruc.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmdata\libsrc\dcmdata_obj.dir\$(Configuration)\dcvrui.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmdata\libsrc\dcmdata_obj.dir\$(Configuration)\dcvrul.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmdata\libsrc\dcmdata_obj.dir\$(Configuration)\dcvrulup.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmdata\libsrc\dcmdata_obj.dir\$(Configuration)\dcvrur.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmdata\libsrc\dcmdata_obj.dir\$(Configuration)\dcvrus.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmdata\libsrc\dcmdata_obj.dir\$(Configuration)\dcvrut.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmdata\libsrc\dcmdata_obj.dir\$(Configuration)\dcvruv.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmdata\libsrc\dcmdata_obj.dir\$(Configuration)\dcwcache.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmdata\libsrc\dcmdata_obj.dir\$(Configuration)\dcxfer.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmdata\libsrc\dcmdata_obj.dir\$(Configuration)\vrscan.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmdata\libsrc\dcmdata_obj.dir\$(Configuration)\vrscanl.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmdata\libi2d\i2d_obj.dir\$(Configuration)\i2d.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmdata\libi2d\i2d_obj.dir\$(Configuration)\i2dplvlp.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmdata\libi2d\i2d_obj.dir\$(Configuration)\i2djpgs.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmdata\libi2d\i2d_obj.dir\$(Configuration)\i2dbmps.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmdata\libi2d\i2d_obj.dir\$(Configuration)\i2dplsc.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmdata\libi2d\i2d_obj.dir\$(Configuration)\i2dplnsc.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmdata\libi2d\i2d_obj.dir\$(Configuration)\i2dplop.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmdata\libi2d\i2d_obj.dir\$(Configuration)\i2doutpl.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmdata\libdcxml\dcmxml_obj.dir\$(Configuration)\xml2dcm.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmimgle\libsrc\dcmimgle_obj.dir\$(Configuration)\dcmimage.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmimgle\libsrc\dcmimgle_obj.dir\$(Configuration)\dibaslut.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmimgle\libsrc\dcmimgle_obj.dir\$(Configuration)\diciefn.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmimgle\libsrc\dcmimgle_obj.dir\$(Configuration)\dicielut.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmimgle\libsrc\dcmimgle_obj.dir\$(Configuration)\didislut.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmimgle\libsrc\dcmimgle_obj.dir\$(Configuration)\didispfn.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmimgle\libsrc\dcmimgle_obj.dir\$(Configuration)\didocu.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmimgle\libsrc\dcmimgle_obj.dir\$(Configuration)\digsdfn.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmimgle\libsrc\dcmimgle_obj.dir\$(Configuration)\digsdlut.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmimgle\libsrc\dcmimgle_obj.dir\$(Configuration)\diimage.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmimgle\libsrc\dcmimgle_obj.dir\$(Configuration)\diinpx.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmimgle\libsrc\dcmimgle_obj.dir\$(Configuration)\diluptab.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmimgle\libsrc\dcmimgle_obj.dir\$(Configuration)\dimo1img.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmimgle\libsrc\dcmimgle_obj.dir\$(Configuration)\dimo2img.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmimgle\libsrc\dcmimgle_obj.dir\$(Configuration)\dimoimg.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmimgle\libsrc\dcmimgle_obj.dir\$(Configuration)\dimoimg3.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmimgle\libsrc\dcmimgle_obj.dir\$(Configuration)\dimoimg4.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmimgle\libsrc\dcmimgle_obj.dir\$(Configuration)\dimoimg5.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmimgle\libsrc\dcmimgle_obj.dir\$(Configuration)\dimomod.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmimgle\libsrc\dcmimgle_obj.dir\$(Configuration)\dimoopx.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmimgle\libsrc\dcmimgle_obj.dir\$(Configuration)\dimopx.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmimgle\libsrc\dcmimgle_obj.dir\$(Configuration)\diovdat.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmimgle\libsrc\dcmimgle_obj.dir\$(Configuration)\diovlay.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmimgle\libsrc\dcmimgle_obj.dir\$(Configuration)\diovlimg.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmimgle\libsrc\dcmimgle_obj.dir\$(Configuration)\diovpln.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmimgle\libsrc\dcmimgle_obj.dir\$(Configuration)\diutils.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmimage\libsrc\dcmimage_obj.dir\$(Configuration)\dcmicmph.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmimage\libsrc\dcmimage_obj.dir\$(Configuration)\diargimg.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmimage\libsrc\dcmimage_obj.dir\$(Configuration)\dicmyimg.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmimage\libsrc\dcmimage_obj.dir\$(Configuration)\dicoimg.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmimage\libsrc\dcmimage_obj.dir\$(Configuration)\dicoopx.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmimage\libsrc\dcmimage_obj.dir\$(Configuration)\dicopx.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmimage\libsrc\dcmimage_obj.dir\$(Configuration)\dihsvimg.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmimage\libsrc\dcmimage_obj.dir\$(Configuration)\dilogger.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmimage\libsrc\dcmimage_obj.dir\$(Configuration)\dipalimg.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmimage\libsrc\dcmimage_obj.dir\$(Configuration)\dipipng.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmimage\libsrc\dcmimage_obj.dir\$(Configuration)\dipitiff.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmimage\libsrc\dcmimage_obj.dir\$(Configuration)\diqtctab.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmimage\libsrc\dcmimage_obj.dir\$(Configuration)\diqtfs.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmimage\libsrc\dcmimage_obj.dir\$(Configuration)\diqthash.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmimage\libsrc\dcmimage_obj.dir\$(Configuration)\diqthitl.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmimage\libsrc\dcmimage_obj.dir\$(Configuration)\diqtpbox.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmimage\libsrc\dcmimage_obj.dir\$(Configuration)\diquant.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmimage\libsrc\dcmimage_obj.dir\$(Configuration)\diregist.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmimage\libsrc\dcmimage_obj.dir\$(Configuration)\dirgbimg.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmimage\libsrc\dcmimage_obj.dir\$(Configuration)\diybrimg.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmimage\libsrc\dcmimage_obj.dir\$(Configuration)\diyf2img.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmimage\libsrc\dcmimage_obj.dir\$(Configuration)\diyp2img.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libsrc\dcmjpeg_obj.dir\$(Configuration)\ddpiimpl.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libsrc\dcmjpeg_obj.dir\$(Configuration)\dipijpeg.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libsrc\dcmjpeg_obj.dir\$(Configuration)\djcodecd.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libsrc\dcmjpeg_obj.dir\$(Configuration)\djcodece.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libsrc\dcmjpeg_obj.dir\$(Configuration)\djcparam.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libsrc\dcmjpeg_obj.dir\$(Configuration)\djdecbas.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libsrc\dcmjpeg_obj.dir\$(Configuration)\djdecext.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libsrc\dcmjpeg_obj.dir\$(Configuration)\djdeclol.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libsrc\dcmjpeg_obj.dir\$(Configuration)\djdecode.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libsrc\dcmjpeg_obj.dir\$(Configuration)\djdecpro.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libsrc\dcmjpeg_obj.dir\$(Configuration)\djdecsps.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libsrc\dcmjpeg_obj.dir\$(Configuration)\djdecsv1.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libsrc\dcmjpeg_obj.dir\$(Configuration)\djdijg12.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libsrc\dcmjpeg_obj.dir\$(Configuration)\djdijg8.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libsrc\dcmjpeg_obj.dir\$(Configuration)\djdijg16.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libsrc\dcmjpeg_obj.dir\$(Configuration)\djeijg12.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libsrc\dcmjpeg_obj.dir\$(Configuration)\djeijg8.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libsrc\dcmjpeg_obj.dir\$(Configuration)\djeijg16.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libsrc\dcmjpeg_obj.dir\$(Configuration)\djencbas.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libsrc\dcmjpeg_obj.dir\$(Configuration)\djencext.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libsrc\dcmjpeg_obj.dir\$(Configuration)\djenclol.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libsrc\dcmjpeg_obj.dir\$(Configuration)\djencode.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libsrc\dcmjpeg_obj.dir\$(Configuration)\djencpro.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libsrc\dcmjpeg_obj.dir\$(Configuration)\djencsps.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libsrc\dcmjpeg_obj.dir\$(Configuration)\djencsv1.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libsrc\dcmjpeg_obj.dir\$(Configuration)\djrplol.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libsrc\dcmjpeg_obj.dir\$(Configuration)\djrploss.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libsrc\dcmjpeg_obj.dir\$(Configuration)\djutils.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg8\ijg8_obj.dir\$(Configuration)\jaricom.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg8\ijg8_obj.dir\$(Configuration)\jcapimin.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg8\ijg8_obj.dir\$(Configuration)\jcapistd.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg8\ijg8_obj.dir\$(Configuration)\jcarith.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg8\ijg8_obj.dir\$(Configuration)\jccoefct.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg8\ijg8_obj.dir\$(Configuration)\jccolor.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg8\ijg8_obj.dir\$(Configuration)\jcdctmgr.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg8\ijg8_obj.dir\$(Configuration)\jcdiffct.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg8\ijg8_obj.dir\$(Configuration)\jchuff.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg8\ijg8_obj.dir\$(Configuration)\jcinit.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg8\ijg8_obj.dir\$(Configuration)\jclhuff.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg8\ijg8_obj.dir\$(Configuration)\jclossls.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg8\ijg8_obj.dir\$(Configuration)\jclossy.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg8\ijg8_obj.dir\$(Configuration)\jcmainct.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg8\ijg8_obj.dir\$(Configuration)\jcmarker.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg8\ijg8_obj.dir\$(Configuration)\jcmaster.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg8\ijg8_obj.dir\$(Configuration)\jcodec.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg8\ijg8_obj.dir\$(Configuration)\jcomapi.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg8\ijg8_obj.dir\$(Configuration)\jcparam.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg8\ijg8_obj.dir\$(Configuration)\jcphuff.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg8\ijg8_obj.dir\$(Configuration)\jcpred.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg8\ijg8_obj.dir\$(Configuration)\jcprepct.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg8\ijg8_obj.dir\$(Configuration)\jcsample.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg8\ijg8_obj.dir\$(Configuration)\jcscale.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg8\ijg8_obj.dir\$(Configuration)\jcshuff.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg8\ijg8_obj.dir\$(Configuration)\jctrans.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg8\ijg8_obj.dir\$(Configuration)\jdapimin.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg8\ijg8_obj.dir\$(Configuration)\jdapistd.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg8\ijg8_obj.dir\$(Configuration)\jdarith.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg8\ijg8_obj.dir\$(Configuration)\jdatadst.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg8\ijg8_obj.dir\$(Configuration)\jdatasrc.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg8\ijg8_obj.dir\$(Configuration)\jdcoefct.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg8\ijg8_obj.dir\$(Configuration)\jdcolor.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg8\ijg8_obj.dir\$(Configuration)\jddctmgr.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg8\ijg8_obj.dir\$(Configuration)\jddiffct.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg8\ijg8_obj.dir\$(Configuration)\jdhuff.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg8\ijg8_obj.dir\$(Configuration)\jdinput.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg8\ijg8_obj.dir\$(Configuration)\jdlhuff.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg8\ijg8_obj.dir\$(Configuration)\jdlossls.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg8\ijg8_obj.dir\$(Configuration)\jdlossy.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg8\ijg8_obj.dir\$(Configuration)\jdmainct.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg8\ijg8_obj.dir\$(Configuration)\jdmarker.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg8\ijg8_obj.dir\$(Configuration)\jdmaster.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg8\ijg8_obj.dir\$(Configuration)\jdmerge.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg8\ijg8_obj.dir\$(Configuration)\jdphuff.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg8\ijg8_obj.dir\$(Configuration)\jdpostct.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg8\ijg8_obj.dir\$(Configuration)\jdpred.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg8\ijg8_obj.dir\$(Configuration)\jdsample.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg8\ijg8_obj.dir\$(Configuration)\jdscale.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg8\ijg8_obj.dir\$(Configuration)\jdshuff.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg8\ijg8_obj.dir\$(Configuration)\jdtrans.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg8\ijg8_obj.dir\$(Configuration)\jerror.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg8\ijg8_obj.dir\$(Configuration)\jfdctflt.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg8\ijg8_obj.dir\$(Configuration)\jfdctfst.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg8\ijg8_obj.dir\$(Configuration)\jfdctint.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg8\ijg8_obj.dir\$(Configuration)\jidctflt.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg8\ijg8_obj.dir\$(Configuration)\jidctfst.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg8\ijg8_obj.dir\$(Configuration)\jidctint.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg8\ijg8_obj.dir\$(Configuration)\jidctred.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg8\ijg8_obj.dir\$(Configuration)\jmemmgr.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg8\ijg8_obj.dir\$(Configuration)\jmemnobs.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg8\ijg8_obj.dir\$(Configuration)\jquant1.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg8\ijg8_obj.dir\$(Configuration)\jquant2.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg8\ijg8_obj.dir\$(Configuration)\jutils.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg12\ijg12_obj.dir\$(Configuration)\jaricom.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg12\ijg12_obj.dir\$(Configuration)\jcapimin.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg12\ijg12_obj.dir\$(Configuration)\jcapistd.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg12\ijg12_obj.dir\$(Configuration)\jcarith.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg12\ijg12_obj.dir\$(Configuration)\jccoefct.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg12\ijg12_obj.dir\$(Configuration)\jccolor.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg12\ijg12_obj.dir\$(Configuration)\jcdctmgr.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg12\ijg12_obj.dir\$(Configuration)\jcdiffct.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg12\ijg12_obj.dir\$(Configuration)\jchuff.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg12\ijg12_obj.dir\$(Configuration)\jcinit.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg12\ijg12_obj.dir\$(Configuration)\jclhuff.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg12\ijg12_obj.dir\$(Configuration)\jclossls.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg12\ijg12_obj.dir\$(Configuration)\jclossy.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg12\ijg12_obj.dir\$(Configuration)\jcmainct.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg12\ijg12_obj.dir\$(Configuration)\jcmarker.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg12\ijg12_obj.dir\$(Configuration)\jcmaster.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg12\ijg12_obj.dir\$(Configuration)\jcodec.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg12\ijg12_obj.dir\$(Configuration)\jcomapi.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg12\ijg12_obj.dir\$(Configuration)\jcparam.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg12\ijg12_obj.dir\$(Configuration)\jcphuff.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg12\ijg12_obj.dir\$(Configuration)\jcpred.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg12\ijg12_obj.dir\$(Configuration)\jcprepct.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg12\ijg12_obj.dir\$(Configuration)\jcsample.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg12\ijg12_obj.dir\$(Configuration)\jcscale.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg12\ijg12_obj.dir\$(Configuration)\jcshuff.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg12\ijg12_obj.dir\$(Configuration)\jctrans.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg12\ijg12_obj.dir\$(Configuration)\jdapimin.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg12\ijg12_obj.dir\$(Configuration)\jdapistd.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg12\ijg12_obj.dir\$(Configuration)\jdarith.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg12\ijg12_obj.dir\$(Configuration)\jdatadst.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg12\ijg12_obj.dir\$(Configuration)\jdatasrc.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg12\ijg12_obj.dir\$(Configuration)\jdcoefct.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg12\ijg12_obj.dir\$(Configuration)\jdcolor.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg12\ijg12_obj.dir\$(Configuration)\jddctmgr.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg12\ijg12_obj.dir\$(Configuration)\jddiffct.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg12\ijg12_obj.dir\$(Configuration)\jdhuff.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg12\ijg12_obj.dir\$(Configuration)\jdinput.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg12\ijg12_obj.dir\$(Configuration)\jdlhuff.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg12\ijg12_obj.dir\$(Configuration)\jdlossls.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg12\ijg12_obj.dir\$(Configuration)\jdlossy.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg12\ijg12_obj.dir\$(Configuration)\jdmainct.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg12\ijg12_obj.dir\$(Configuration)\jdmarker.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg12\ijg12_obj.dir\$(Configuration)\jdmaster.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg12\ijg12_obj.dir\$(Configuration)\jdmerge.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg12\ijg12_obj.dir\$(Configuration)\jdphuff.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg12\ijg12_obj.dir\$(Configuration)\jdpostct.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg12\ijg12_obj.dir\$(Configuration)\jdpred.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg12\ijg12_obj.dir\$(Configuration)\jdsample.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg12\ijg12_obj.dir\$(Configuration)\jdscale.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg12\ijg12_obj.dir\$(Configuration)\jdshuff.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg12\ijg12_obj.dir\$(Configuration)\jdtrans.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg12\ijg12_obj.dir\$(Configuration)\jerror.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg12\ijg12_obj.dir\$(Configuration)\jfdctflt.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg12\ijg12_obj.dir\$(Configuration)\jfdctfst.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg12\ijg12_obj.dir\$(Configuration)\jfdctint.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg12\ijg12_obj.dir\$(Configuration)\jidctflt.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg12\ijg12_obj.dir\$(Configuration)\jidctfst.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg12\ijg12_obj.dir\$(Configuration)\jidctint.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg12\ijg12_obj.dir\$(Configuration)\jidctred.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg12\ijg12_obj.dir\$(Configuration)\jmemmgr.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg12\ijg12_obj.dir\$(Configuration)\jmemnobs.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg12\ijg12_obj.dir\$(Configuration)\jquant1.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg12\ijg12_obj.dir\$(Configuration)\jquant2.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg12\ijg12_obj.dir\$(Configuration)\jutils.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg16\ijg16_obj.dir\$(Configuration)\jaricom.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg16\ijg16_obj.dir\$(Configuration)\jcapimin.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg16\ijg16_obj.dir\$(Configuration)\jcapistd.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg16\ijg16_obj.dir\$(Configuration)\jcarith.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg16\ijg16_obj.dir\$(Configuration)\jccoefct.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg16\ijg16_obj.dir\$(Configuration)\jccolor.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg16\ijg16_obj.dir\$(Configuration)\jcdctmgr.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg16\ijg16_obj.dir\$(Configuration)\jcdiffct.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg16\ijg16_obj.dir\$(Configuration)\jchuff.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg16\ijg16_obj.dir\$(Configuration)\jcinit.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg16\ijg16_obj.dir\$(Configuration)\jclhuff.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg16\ijg16_obj.dir\$(Configuration)\jclossls.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg16\ijg16_obj.dir\$(Configuration)\jclossy.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg16\ijg16_obj.dir\$(Configuration)\jcmainct.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg16\ijg16_obj.dir\$(Configuration)\jcmarker.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg16\ijg16_obj.dir\$(Configuration)\jcmaster.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg16\ijg16_obj.dir\$(Configuration)\jcodec.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg16\ijg16_obj.dir\$(Configuration)\jcomapi.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg16\ijg16_obj.dir\$(Configuration)\jcparam.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg16\ijg16_obj.dir\$(Configuration)\jcphuff.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg16\ijg16_obj.dir\$(Configuration)\jcpred.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg16\ijg16_obj.dir\$(Configuration)\jcprepct.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg16\ijg16_obj.dir\$(Configuration)\jcsample.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg16\ijg16_obj.dir\$(Configuration)\jcscale.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg16\ijg16_obj.dir\$(Configuration)\jcshuff.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg16\ijg16_obj.dir\$(Configuration)\jctrans.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg16\ijg16_obj.dir\$(Configuration)\jdapimin.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg16\ijg16_obj.dir\$(Configuration)\jdapistd.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg16\ijg16_obj.dir\$(Configuration)\jdarith.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg16\ijg16_obj.dir\$(Configuration)\jdatadst.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg16\ijg16_obj.dir\$(Configuration)\jdatasrc.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg16\ijg16_obj.dir\$(Configuration)\jdcoefct.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg16\ijg16_obj.dir\$(Configuration)\jdcolor.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg16\ijg16_obj.dir\$(Configuration)\jddctmgr.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg16\ijg16_obj.dir\$(Configuration)\jddiffct.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg16\ijg16_obj.dir\$(Configuration)\jdhuff.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg16\ijg16_obj.dir\$(Configuration)\jdinput.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg16\ijg16_obj.dir\$(Configuration)\jdlhuff.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg16\ijg16_obj.dir\$(Configuration)\jdlossls.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg16\ijg16_obj.dir\$(Configuration)\jdlossy.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg16\ijg16_obj.dir\$(Configuration)\jdmainct.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg16\ijg16_obj.dir\$(Configuration)\jdmarker.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg16\ijg16_obj.dir\$(Configuration)\jdmaster.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg16\ijg16_obj.dir\$(Configuration)\jdmerge.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg16\ijg16_obj.dir\$(Configuration)\jdphuff.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg16\ijg16_obj.dir\$(Configuration)\jdpostct.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg16\ijg16_obj.dir\$(Configuration)\jdpred.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg16\ijg16_obj.dir\$(Configuration)\jdsample.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg16\ijg16_obj.dir\$(Configuration)\jdscale.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg16\ijg16_obj.dir\$(Configuration)\jdshuff.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg16\ijg16_obj.dir\$(Configuration)\jdtrans.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg16\ijg16_obj.dir\$(Configuration)\jerror.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg16\ijg16_obj.dir\$(Configuration)\jfdctflt.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg16\ijg16_obj.dir\$(Configuration)\jfdctfst.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg16\ijg16_obj.dir\$(Configuration)\jfdctint.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg16\ijg16_obj.dir\$(Configuration)\jidctflt.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg16\ijg16_obj.dir\$(Configuration)\jidctfst.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg16\ijg16_obj.dir\$(Configuration)\jidctint.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg16\ijg16_obj.dir\$(Configuration)\jidctred.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg16\ijg16_obj.dir\$(Configuration)\jmemmgr.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg16\ijg16_obj.dir\$(Configuration)\jmemnobs.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg16\ijg16_obj.dir\$(Configuration)\jquant1.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg16\ijg16_obj.dir\$(Configuration)\jquant2.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpeg\libijg16\ijg16_obj.dir\$(Configuration)\jutils.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpls\libsrc\dcmjpls_obj.dir\$(Configuration)\djcparam.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpls\libsrc\dcmjpls_obj.dir\$(Configuration)\djdecode.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpls\libsrc\dcmjpls_obj.dir\$(Configuration)\djencode.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpls\libsrc\dcmjpls_obj.dir\$(Configuration)\djrparam.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpls\libsrc\dcmjpls_obj.dir\$(Configuration)\djcodecd.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpls\libsrc\dcmjpls_obj.dir\$(Configuration)\djutils.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpls\libsrc\dcmjpls_obj.dir\$(Configuration)\djcodece.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpls\libcharls\dcmtkcharls_obj.dir\$(Configuration)\header.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpls\libcharls\dcmtkcharls_obj.dir\$(Configuration)\intrface.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmjpls\libcharls\dcmtkcharls_obj.dir\$(Configuration)\jpegls.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtls\libsrc\dcmtls_obj.dir\$(Configuration)\tlscond.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtls\libsrc\dcmtls_obj.dir\$(Configuration)\tlslayer.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtls\libsrc\dcmtls_obj.dir\$(Configuration)\tlsopt.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtls\libsrc\dcmtls_obj.dir\$(Configuration)\tlstrans.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtls\libsrc\dcmtls_obj.dir\$(Configuration)\tlsscu.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtls\libsrc\dcmtls_obj.dir\$(Configuration)\tlsciphr.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmnet\libsrc\dcmnet_obj.dir\$(Configuration)\assoc.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmnet\libsrc\dcmnet_obj.dir\$(Configuration)\cond.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmnet\libsrc\dcmnet_obj.dir\$(Configuration)\dcasccff.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmnet\libsrc\dcmnet_obj.dir\$(Configuration)\dcasccfg.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmnet\libsrc\dcmnet_obj.dir\$(Configuration)\dccfenmp.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmnet\libsrc\dcmnet_obj.dir\$(Configuration)\dccfpcmp.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmnet\libsrc\dcmnet_obj.dir\$(Configuration)\dccfprmp.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmnet\libsrc\dcmnet_obj.dir\$(Configuration)\dccfrsmp.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmnet\libsrc\dcmnet_obj.dir\$(Configuration)\dccftsmp.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmnet\libsrc\dcmnet_obj.dir\$(Configuration)\dccfuidh.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmnet\libsrc\dcmnet_obj.dir\$(Configuration)\dcmlayer.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmnet\libsrc\dcmnet_obj.dir\$(Configuration)\dcmtrans.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmnet\libsrc\dcmnet_obj.dir\$(Configuration)\dcompat.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmnet\libsrc\dcmnet_obj.dir\$(Configuration)\dcuserid.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmnet\libsrc\dcmnet_obj.dir\$(Configuration)\dfindscu.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmnet\libsrc\dcmnet_obj.dir\$(Configuration)\dimcancl.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmnet\libsrc\dcmnet_obj.dir\$(Configuration)\dimcmd.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmnet\libsrc\dcmnet_obj.dir\$(Configuration)\dimdump.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmnet\libsrc\dcmnet_obj.dir\$(Configuration)\dimecho.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmnet\libsrc\dcmnet_obj.dir\$(Configuration)\dimfind.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmnet\libsrc\dcmnet_obj.dir\$(Configuration)\dimget.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmnet\libsrc\dcmnet_obj.dir\$(Configuration)\dimmove.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmnet\libsrc\dcmnet_obj.dir\$(Configuration)\dimse.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmnet\libsrc\dcmnet_obj.dir\$(Configuration)\dimstore.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmnet\libsrc\dcmnet_obj.dir\$(Configuration)\diutil.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmnet\libsrc\dcmnet_obj.dir\$(Configuration)\dstorscp.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmnet\libsrc\dcmnet_obj.dir\$(Configuration)\dstorscu.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmnet\libsrc\dcmnet_obj.dir\$(Configuration)\dul.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmnet\libsrc\dcmnet_obj.dir\$(Configuration)\dulconst.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmnet\libsrc\dcmnet_obj.dir\$(Configuration)\dulextra.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmnet\libsrc\dcmnet_obj.dir\$(Configuration)\dulfsm.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmnet\libsrc\dcmnet_obj.dir\$(Configuration)\dulparse.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmnet\libsrc\dcmnet_obj.dir\$(Configuration)\dulpres.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmnet\libsrc\dcmnet_obj.dir\$(Configuration)\dwrap.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmnet\libsrc\dcmnet_obj.dir\$(Configuration)\extneg.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmnet\libsrc\dcmnet_obj.dir\$(Configuration)\helpers.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmnet\libsrc\dcmnet_obj.dir\$(Configuration)\lst.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmnet\libsrc\dcmnet_obj.dir\$(Configuration)\scp.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmnet\libsrc\dcmnet_obj.dir\$(Configuration)\scpcfg.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmnet\libsrc\dcmnet_obj.dir\$(Configuration)\scppool.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmnet\libsrc\dcmnet_obj.dir\$(Configuration)\scpthrd.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmnet\libsrc\dcmnet_obj.dir\$(Configuration)\scu.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmsr\libsrc\dcmsr_obj.dir\$(Configuration)\dsracqcc.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmsr\libsrc\dcmsr_obj.dir\$(Configuration)\dsrbascc.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmsr\libsrc\dcmsr_obj.dir\$(Configuration)\dsrc3dcc.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmsr\libsrc\dcmsr_obj.dir\$(Configuration)\dsrchecc.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmsr\libsrc\dcmsr_obj.dir\$(Configuration)\dsrcitem.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmsr\libsrc\dcmsr_obj.dir\$(Configuration)\dsrcodtn.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmsr\libsrc\dcmsr_obj.dir\$(Configuration)\dsrcodvl.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmsr\libsrc\dcmsr_obj.dir\$(Configuration)\dsrcolcc.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmsr\libsrc\dcmsr_obj.dir\$(Configuration)\dsrcomcc.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmsr\libsrc\dcmsr_obj.dir\$(Configuration)\dsrcomtn.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmsr\libsrc\dcmsr_obj.dir\$(Configuration)\dsrcomvl.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmsr\libsrc\dcmsr_obj.dir\$(Configuration)\dsrcontn.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmsr\libsrc\dcmsr_obj.dir\$(Configuration)\dsrcsidl.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmsr\libsrc\dcmsr_obj.dir\$(Configuration)\dsrctpl.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmsr\libsrc\dcmsr_obj.dir\$(Configuration)\dsrctxgr.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmsr\libsrc\dcmsr_obj.dir\$(Configuration)\dsrdattn.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmsr\libsrc\dcmsr_obj.dir\$(Configuration)\dsrdncsr.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmsr\libsrc\dcmsr_obj.dir\$(Configuration)\dsrdnflt.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmsr\libsrc\dcmsr_obj.dir\$(Configuration)\dsrdoc.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmsr\libsrc\dcmsr_obj.dir\$(Configuration)\dsrdocst.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmsr\libsrc\dcmsr_obj.dir\$(Configuration)\dsrdoctn.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmsr\libsrc\dcmsr_obj.dir\$(Configuration)\dsrdoctr.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmsr\libsrc\dcmsr_obj.dir\$(Configuration)\dsrdtitn.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmsr\libsrc\dcmsr_obj.dir\$(Configuration)\dsrenhcc.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmsr\libsrc\dcmsr_obj.dir\$(Configuration)\dsrimgfr.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmsr\libsrc\dcmsr_obj.dir\$(Configuration)\dsrimgse.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmsr\libsrc\dcmsr_obj.dir\$(Configuration)\dsrimgtn.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmsr\libsrc\dcmsr_obj.dir\$(Configuration)\dsrimgvl.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmsr\libsrc\dcmsr_obj.dir\$(Configuration)\dsrimpcc.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmsr\libsrc\dcmsr_obj.dir\$(Configuration)\dsriodcc.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmsr\libsrc\dcmsr_obj.dir\$(Configuration)\dsritcsr.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmsr\libsrc\dcmsr_obj.dir\$(Configuration)\dsrkeycc.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmsr\libsrc\dcmsr_obj.dir\$(Configuration)\dsrmaccc.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmsr\libsrc\dcmsr_obj.dir\$(Configuration)\dsrmamcc.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmsr\libsrc\dcmsr_obj.dir\$(Configuration)\dsrnumtn.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmsr\libsrc\dcmsr_obj.dir\$(Configuration)\dsrnumvl.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmsr\libsrc\dcmsr_obj.dir\$(Configuration)\dsrpficc.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmsr\libsrc\dcmsr_obj.dir\$(Configuration)\dsrplicc.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmsr\libsrc\dcmsr_obj.dir\$(Configuration)\dsrpnmtn.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmsr\libsrc\dcmsr_obj.dir\$(Configuration)\dsrposcn.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmsr\libsrc\dcmsr_obj.dir\$(Configuration)\dsrprdcc.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmsr\libsrc\dcmsr_obj.dir\$(Configuration)\dsrprocc.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmsr\libsrc\dcmsr_obj.dir\$(Configuration)\dsrrefin.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmsr\libsrc\dcmsr_obj.dir\$(Configuration)\dsrreftn.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmsr\libsrc\dcmsr_obj.dir\$(Configuration)\dsrrrdcc.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmsr\libsrc\dcmsr_obj.dir\$(Configuration)\dsrrsdcc.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmsr\libsrc\dcmsr_obj.dir\$(Configuration)\dsrrtpl.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmsr\libsrc\dcmsr_obj.dir\$(Configuration)\dsrsaecc.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmsr\libsrc\dcmsr_obj.dir\$(Configuration)\dsrsc3gr.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmsr\libsrc\dcmsr_obj.dir\$(Configuration)\dsrsc3tn.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmsr\libsrc\dcmsr_obj.dir\$(Configuration)\dsrsc3vl.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmsr\libsrc\dcmsr_obj.dir\$(Configuration)\dsrscogr.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmsr\libsrc\dcmsr_obj.dir\$(Configuration)\dsrscotn.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmsr\libsrc\dcmsr_obj.dir\$(Configuration)\dsrscovl.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmsr\libsrc\dcmsr_obj.dir\$(Configuration)\dsrsoprf.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmsr\libsrc\dcmsr_obj.dir\$(Configuration)\dsrspecc.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmsr\libsrc\dcmsr_obj.dir\$(Configuration)\dsrstpl.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmsr\libsrc\dcmsr_obj.dir\$(Configuration)\dsrstrvl.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmsr\libsrc\dcmsr_obj.dir\$(Configuration)\dsrtcodt.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmsr\libsrc\dcmsr_obj.dir\$(Configuration)\dsrtcosp.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmsr\libsrc\dcmsr_obj.dir\$(Configuration)\dsrtcotn.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmsr\libsrc\dcmsr_obj.dir\$(Configuration)\dsrtcoto.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmsr\libsrc\dcmsr_obj.dir\$(Configuration)\dsrtcovl.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmsr\libsrc\dcmsr_obj.dir\$(Configuration)\dsrtextn.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmsr\libsrc\dcmsr_obj.dir\$(Configuration)\dsrtimtn.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmsr\libsrc\dcmsr_obj.dir\$(Configuration)\dsrtpltn.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmsr\libsrc\dcmsr_obj.dir\$(Configuration)\dsrtree.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmsr\libsrc\dcmsr_obj.dir\$(Configuration)\dsrtypes.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmsr\libsrc\dcmsr_obj.dir\$(Configuration)\dsruidtn.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmsr\libsrc\dcmsr_obj.dir\$(Configuration)\dsrwavch.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmsr\libsrc\dcmsr_obj.dir\$(Configuration)\dsrwavtn.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmsr\libsrc\dcmsr_obj.dir\$(Configuration)\dsrwavvl.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmsr\libsrc\dcmsr_obj.dir\$(Configuration)\dsrxmlc.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmsr\libsrc\dcmsr_obj.dir\$(Configuration)\dsrxmld.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmsr\libsrc\dcmsr_obj.dir\$(Configuration)\dsrxrdcc.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmsr\libcmr\cmr_obj.dir\$(Configuration)\cid100.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmsr\libcmr\cmr_obj.dir\$(Configuration)\cid10013.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmsr\libcmr\cmr_obj.dir\$(Configuration)\cid10013e.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmsr\libcmr\cmr_obj.dir\$(Configuration)\cid10033.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmsr\libcmr\cmr_obj.dir\$(Configuration)\cid10033e.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmsr\libcmr\cmr_obj.dir\$(Configuration)\cid11.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmsr\libcmr\cmr_obj.dir\$(Configuration)\cid218.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmsr\libcmr\cmr_obj.dir\$(Configuration)\cid218e.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmsr\libcmr\cmr_obj.dir\$(Configuration)\cid244.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmsr\libcmr\cmr_obj.dir\$(Configuration)\cid244e.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmsr\libcmr\cmr_obj.dir\$(Configuration)\cid247.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmsr\libcmr\cmr_obj.dir\$(Configuration)\cid29.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmsr\libcmr\cmr_obj.dir\$(Configuration)\cid29e.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmsr\libcmr\cmr_obj.dir\$(Configuration)\cid4020.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmsr\libcmr\cmr_obj.dir\$(Configuration)\cid4021.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmsr\libcmr\cmr_obj.dir\$(Configuration)\cid4031.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmsr\libcmr\cmr_obj.dir\$(Configuration)\cid4031e.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmsr\libcmr\cmr_obj.dir\$(Configuration)\cid42.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmsr\libcmr\cmr_obj.dir\$(Configuration)\cid5000.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmsr\libcmr\cmr_obj.dir\$(Configuration)\cid5001.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmsr\libcmr\cmr_obj.dir\$(Configuration)\cid6147.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmsr\libcmr\cmr_obj.dir\$(Configuration)\cid7021.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmsr\libcmr\cmr_obj.dir\$(Configuration)\cid7181.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmsr\libcmr\cmr_obj.dir\$(Configuration)\cid7445.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmsr\libcmr\cmr_obj.dir\$(Configuration)\cid7452.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmsr\libcmr\cmr_obj.dir\$(Configuration)\cid7453.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmsr\libcmr\cmr_obj.dir\$(Configuration)\cid7464.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmsr\libcmr\cmr_obj.dir\$(Configuration)\cid7469.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmsr\libcmr\cmr_obj.dir\$(Configuration)\cid7551.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmsr\libcmr\cmr_obj.dir\$(Configuration)\init.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmsr\libcmr\cmr_obj.dir\$(Configuration)\logger.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmsr\libcmr\cmr_obj.dir\$(Configuration)\srnumvl.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmsr\libcmr\cmr_obj.dir\$(Configuration)\tid1001.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmsr\libcmr\cmr_obj.dir\$(Configuration)\tid1204.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmsr\libcmr\cmr_obj.dir\$(Configuration)\tid1411.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmsr\libcmr\cmr_obj.dir\$(Configuration)\tid1419m.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmsr\libcmr\cmr_obj.dir\$(Configuration)\tid1500.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmsr\libcmr\cmr_obj.dir\$(Configuration)\tid1501.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmsr\libcmr\cmr_obj.dir\$(Configuration)\tid15def.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmsr\libcmr\cmr_obj.dir\$(Configuration)\tid1600.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmsr\libcmr\cmr_obj.dir\$(Configuration)\tid300.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmsr\libcmr\cmr_obj.dir\$(Configuration)\tid4019.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmsign\libsrc\dcmdsig_obj.dir\$(Configuration)\dcsighlp.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmsign\libsrc\dcmdsig_obj.dir\$(Configuration)\dcsignat.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmsign\libsrc\dcmdsig_obj.dir\$(Configuration)\siautopr.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmsign\libsrc\dcmdsig_obj.dir\$(Configuration)\sibrsapr.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmsign\libsrc\dcmdsig_obj.dir\$(Configuration)\sicert.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmsign\libsrc\dcmdsig_obj.dir\$(Configuration)\sicertvf.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmsign\libsrc\dcmdsig_obj.dir\$(Configuration)\sicreapr.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmsign\libsrc\dcmdsig_obj.dir\$(Configuration)\simaccon.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmsign\libsrc\dcmdsig_obj.dir\$(Configuration)\simdmac.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmsign\libsrc\dcmdsig_obj.dir\$(Configuration)\sinullpr.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmsign\libsrc\dcmdsig_obj.dir\$(Configuration)\sipkey.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmsign\libsrc\dcmdsig_obj.dir\$(Configuration)\siprivat.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmsign\libsrc\dcmdsig_obj.dir\$(Configuration)\sipurpos.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmsign\libsrc\dcmdsig_obj.dir\$(Configuration)\sisprof.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmsign\libsrc\dcmdsig_obj.dir\$(Configuration)\sisrpr.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmsign\libsrc\dcmdsig_obj.dir\$(Configuration)\sisrvpr.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmsign\libsrc\dcmdsig_obj.dir\$(Configuration)\sitsfs.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmsign\libsrc\dcmdsig_obj.dir\$(Configuration)\sitstamp.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmsign\libsrc\dcmdsig_obj.dir\$(Configuration)\sitypes.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmwlm\libsrc\dcmwlm_obj.dir\$(Configuration)\wlds.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmwlm\libsrc\dcmwlm_obj.dir\$(Configuration)\wldsfs.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmwlm\libsrc\dcmwlm_obj.dir\$(Configuration)\wlfsim.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmwlm\libsrc\dcmwlm_obj.dir\$(Configuration)\wlmactmg.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmqrdb\libsrc\dcmqrdb_obj.dir\$(Configuration)\dcmqrcbf.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmqrdb\libsrc\dcmqrdb_obj.dir\$(Configuration)\dcmqrcbg.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmqrdb\libsrc\dcmqrdb_obj.dir\$(Configuration)\dcmqrcbm.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmqrdb\libsrc\dcmqrdb_obj.dir\$(Configuration)\dcmqrcbs.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmqrdb\libsrc\dcmqrdb_obj.dir\$(Configuration)\dcmqrcnf.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmqrdb\libsrc\dcmqrdb_obj.dir\$(Configuration)\dcmqrdbi.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmqrdb\libsrc\dcmqrdb_obj.dir\$(Configuration)\dcmqrdbs.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmqrdb\libsrc\dcmqrdb_obj.dir\$(Configuration)\dcmqropt.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmqrdb\libsrc\dcmqrdb_obj.dir\$(Configuration)\dcmqrptb.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmqrdb\libsrc\dcmqrdb_obj.dir\$(Configuration)\dcmqrsrv.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmqrdb\libsrc\dcmqrdb_obj.dir\$(Configuration)\dcmqrtis.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmpstat\libsrc\dcmpstat_obj.dir\$(Configuration)\dcmpstat.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmpstat\libsrc\dcmpstat_obj.dir\$(Configuration)\dviface.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmpstat\libsrc\dcmpstat_obj.dir\$(Configuration)\dvpsab.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmpstat\libsrc\dcmpstat_obj.dir\$(Configuration)\dvpsabl.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmpstat\libsrc\dcmpstat_obj.dir\$(Configuration)\dvpsal.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmpstat\libsrc\dcmpstat_obj.dir\$(Configuration)\dvpsall.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmpstat\libsrc\dcmpstat_obj.dir\$(Configuration)\dvpscf.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmpstat\libsrc\dcmpstat_obj.dir\$(Configuration)\dvpscu.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmpstat\libsrc\dcmpstat_obj.dir\$(Configuration)\dvpscul.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmpstat\libsrc\dcmpstat_obj.dir\$(Configuration)\dvpsda.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmpstat\libsrc\dcmpstat_obj.dir\$(Configuration)\dvpsdal.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmpstat\libsrc\dcmpstat_obj.dir\$(Configuration)\dvpsfs.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmpstat\libsrc\dcmpstat_obj.dir\$(Configuration)\dvpsga.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmpstat\libsrc\dcmpstat_obj.dir\$(Configuration)\dvpsgal.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmpstat\libsrc\dcmpstat_obj.dir\$(Configuration)\dvpsgl.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmpstat\libsrc\dcmpstat_obj.dir\$(Configuration)\dvpsgll.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmpstat\libsrc\dcmpstat_obj.dir\$(Configuration)\dvpsgr.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmpstat\libsrc\dcmpstat_obj.dir\$(Configuration)\dvpsgrl.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmpstat\libsrc\dcmpstat_obj.dir\$(Configuration)\dvpshlp.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmpstat\libsrc\dcmpstat_obj.dir\$(Configuration)\dvpsib.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmpstat\libsrc\dcmpstat_obj.dir\$(Configuration)\dvpsibl.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmpstat\libsrc\dcmpstat_obj.dir\$(Configuration)\dvpsmsg.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmpstat\libsrc\dcmpstat_obj.dir\$(Configuration)\dvpsov.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmpstat\libsrc\dcmpstat_obj.dir\$(Configuration)\dvpsovl.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmpstat\libsrc\dcmpstat_obj.dir\$(Configuration)\dvpspl.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmpstat\libsrc\dcmpstat_obj.dir\$(Configuration)\dvpspl2.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmpstat\libsrc\dcmpstat_obj.dir\$(Configuration)\dvpspll.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmpstat\libsrc\dcmpstat_obj.dir\$(Configuration)\dvpspr.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmpstat\libsrc\dcmpstat_obj.dir\$(Configuration)\dvpsprt.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmpstat\libsrc\dcmpstat_obj.dir\$(Configuration)\dvpsri.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmpstat\libsrc\dcmpstat_obj.dir\$(Configuration)\dvpsril.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmpstat\libsrc\dcmpstat_obj.dir\$(Configuration)\dvpsrs.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmpstat\libsrc\dcmpstat_obj.dir\$(Configuration)\dvpsrsl.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmpstat\libsrc\dcmpstat_obj.dir\$(Configuration)\dvpssp.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmpstat\libsrc\dcmpstat_obj.dir\$(Configuration)\dvpsspl.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmpstat\libsrc\dcmpstat_obj.dir\$(Configuration)\dvpssv.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmpstat\libsrc\dcmpstat_obj.dir\$(Configuration)\dvpssvl.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmpstat\libsrc\dcmpstat_obj.dir\$(Configuration)\dvpstat.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmpstat\libsrc\dcmpstat_obj.dir\$(Configuration)\dvpstx.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmpstat\libsrc\dcmpstat_obj.dir\$(Configuration)\dvpstxl.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmpstat\libsrc\dcmpstat_obj.dir\$(Configuration)\dvpsvl.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmpstat\libsrc\dcmpstat_obj.dir\$(Configuration)\dvpsvll.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmpstat\libsrc\dcmpstat_obj.dir\$(Configuration)\dvpsvw.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmpstat\libsrc\dcmpstat_obj.dir\$(Configuration)\dvpsvwl.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmpstat\libsrc\dcmpstat_obj.dir\$(Configuration)\dvsighdl.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drmdose.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drmimage.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drmplan.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drmstrct.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtaadcs.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtadcs.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtads.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtafcs.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtafs.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtags.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtajcs.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtancs.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtarms.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtars.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtas1.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtas2.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtas3.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtas4.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtass.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtbads.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtbas.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtbcps.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtbl1.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtbl2.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtbldls.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtbldps.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtblds1.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtblds2.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtbldts.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtbrcss.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtbrdrs.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtbrs.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtbs.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtbss.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtbvcps.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtcbars.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtccs.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtcctus.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtcdrs.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtces.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtcgis.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtchs.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtcims.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtcis.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtcncs.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtcos.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtcpas.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtcpis.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtcps.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtcsas.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtcs.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtcshs.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtcsis.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtcsrs.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtcss.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtcttcs.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtcvcss.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtcvdas.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtcvis.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtdccs.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtdcs.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtdcvs.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtdddps.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtddps.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtdfss.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtdias.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtdimcs.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtdimrs.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtdirs.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtdose.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtdrs.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtds.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtdspcs.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtdss.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtdtcs.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtdvhs.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtdvrrs.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drteas.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drteblds.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drteblos.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtecs.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtecvis.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtecvs.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtes.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtfbdds.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtfds.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtfes.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtfgs.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtfgss.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtfms.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtfsss.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtgas1.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtgas2.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtgas3.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtgas4.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtgas5.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtgas6.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtgmcs.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtgms.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtgpis.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drthsdrs.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtiais.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtians.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtiblds.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtibls.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtibs.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drticpds.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drticps.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtics.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtidcs.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtiis.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtimage.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtionpl.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtiontr.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtipiqs.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtircs.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtiseis.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtitts.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtiwps.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtiws.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtlsds1.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtlsds2.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtlsds.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtmacds.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtmas.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtmdrs.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtmls.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtmps.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtmris.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtmss.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtmttcs.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtmucs.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtnmas.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtoas.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtois.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtopis.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtos.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtosirs.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtpasms.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtpass.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtpbcs.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtpbdds.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtpbdos.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtpcs.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtpcxs.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtpdecs.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtpdeds.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtpfms.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtpics.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtplan.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtplos.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtporcs.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtporis.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtppcs.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtpros.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtprsis.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtpscs.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtpsics.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtpss.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtpsss.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtpvis.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtqds.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtras.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtrbas1.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtrbas2.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtrbdgs.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtrbls.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtrbos1.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtrbos2.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtrbos3.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtrbs1.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtrbs2.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtrbs3.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtrbss.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtrcdrs.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtrcos.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtrcps.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtrcs.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtrdais.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtrdcks.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtrdps.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtrdrs1.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtrdrs2.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtrdrs3.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtrds.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtrdsis.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtrecs.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtrfgs.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtrfors.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtrics.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtrims.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtris.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtrlsds.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtrmdrs.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtrms.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtrmss1.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtrmss2.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtrpcs.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtrpis.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtrppcs.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtrpphs.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtrpprs.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtrpps.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtrppss.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtrps.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtrris1.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtrris2.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtrris3.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtrrms.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtrros.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtrrpcs.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtrrros.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtrrs.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtrrshs.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtrscs.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtrsers.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtrses.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtrshs1.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtrshs2.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtrshs.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtrsis.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtrsns.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtrsos.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtrsrs.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtrss.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtrsss.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtrsts.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtrtps1.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtrtps2.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtrtps3.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtrtps4.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtrtrs1.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtrtrs2.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtrvcs.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtrvis.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtrws.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtrwvms.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtscris.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtscs.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtscvs.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtsdcs.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtsds.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtshds.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtsins.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtsis.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtsns.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtspccs.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtspcs.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtspgis.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtsppcs.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtsptcs.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtss.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtssrcs.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtssrs.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtsss.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtstrct.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drttms1.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drttms2.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drttrccs.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drttreat.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drttrtcs.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drttscds.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drttscs.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drttsibs.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drttsmds.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtttrcs.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drttts.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drttypes.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtudis.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtvls.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtwps.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtwrs.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtwrsrs.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtws.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmrt\libsrc\dcmrt_obj.dir\$(Configuration)\drtxrs.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmiod\libsrc\dcmiod_obj.dir\$(Configuration)\cielabutil.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmiod\libsrc\dcmiod_obj.dir\$(Configuration)\iodcontentitemmacro.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmiod\libsrc\dcmiod_obj.dir\$(Configuration)\iodcommn.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmiod\libsrc\dcmiod_obj.dir\$(Configuration)\iodmacro.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmiod\libsrc\dcmiod_obj.dir\$(Configuration)\iodrules.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmiod\libsrc\dcmiod_obj.dir\$(Configuration)\iodreferences.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmiod\libsrc\dcmiod_obj.dir\$(Configuration)\iodutil.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmiod\libsrc\dcmiod_obj.dir\$(Configuration)\iodtypes.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmiod\libsrc\dcmiod_obj.dir\$(Configuration)\modacquisitioncontext.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmiod\libsrc\dcmiod_obj.dir\$(Configuration)\modbase.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmiod\libsrc\dcmiod_obj.dir\$(Configuration)\modcommoninstanceref.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmiod\libsrc\dcmiod_obj.dir\$(Configuration)\modenhequipment.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmiod\libsrc\dcmiod_obj.dir\$(Configuration)\modenhusimage.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmiod\libsrc\dcmiod_obj.dir\$(Configuration)\modenhusseries.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmiod\libsrc\dcmiod_obj.dir\$(Configuration)\modequipment.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmiod\libsrc\dcmiod_obj.dir\$(Configuration)\modfloatingpointimagepixel.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmiod\libsrc\dcmiod_obj.dir\$(Configuration)\modfor.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmiod\libsrc\dcmiod_obj.dir\$(Configuration)\modgeneralimage.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmiod\libsrc\dcmiod_obj.dir\$(Configuration)\modgeneralseries.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmiod\libsrc\dcmiod_obj.dir\$(Configuration)\modgeneralstudy.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmiod\libsrc\dcmiod_obj.dir\$(Configuration)\modhelp.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmiod\libsrc\dcmiod_obj.dir\$(Configuration)\modimagepixel.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmiod\libsrc\dcmiod_obj.dir\$(Configuration)\modimagepixelbase.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmiod\libsrc\dcmiod_obj.dir\$(Configuration)\modmultiframefg.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmiod\libsrc\dcmiod_obj.dir\$(Configuration)\modmultiframedimension.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmiod\libsrc\dcmiod_obj.dir\$(Configuration)\modpatient.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmiod\libsrc\dcmiod_obj.dir\$(Configuration)\modpatientstudy.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmiod\libsrc\dcmiod_obj.dir\$(Configuration)\modsegmentationseries.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmiod\libsrc\dcmiod_obj.dir\$(Configuration)\modsopcommon.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmiod\libsrc\dcmiod_obj.dir\$(Configuration)\modsynchronization.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmiod\libsrc\dcmiod_obj.dir\$(Configuration)\modusfor.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmfg\libsrc\dcmfg_obj.dir\$(Configuration)\concatenationcreator.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmfg\libsrc\dcmfg_obj.dir\$(Configuration)\concatenationloader.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmfg\libsrc\dcmfg_obj.dir\$(Configuration)\fg.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmfg\libsrc\dcmfg_obj.dir\$(Configuration)\fgbase.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmfg\libsrc\dcmfg_obj.dir\$(Configuration)\fgctacquisitiondetails.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmfg\libsrc\dcmfg_obj.dir\$(Configuration)\fgctacquisitiontype.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmfg\libsrc\dcmfg_obj.dir\$(Configuration)\fgctadditionalxraysource.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmfg\libsrc\dcmfg_obj.dir\$(Configuration)\fgctexposure.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmfg\libsrc\dcmfg_obj.dir\$(Configuration)\fgctgeometry.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmfg\libsrc\dcmfg_obj.dir\$(Configuration)\fgctimageframetype.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmfg\libsrc\dcmfg_obj.dir\$(Configuration)\fgctposition.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmfg\libsrc\dcmfg_obj.dir\$(Configuration)\fgctreconstruction.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmfg\libsrc\dcmfg_obj.dir\$(Configuration)\fgcttabledynamics.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmfg\libsrc\dcmfg_obj.dir\$(Configuration)\fgctxraydetails.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmfg\libsrc\dcmfg_obj.dir\$(Configuration)\fgderimg.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmfg\libsrc\dcmfg_obj.dir\$(Configuration)\fgfact.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmfg\libsrc\dcmfg_obj.dir\$(Configuration)\fgfracon.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmfg\libsrc\dcmfg_obj.dir\$(Configuration)\fgframeanatomy.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmfg\libsrc\dcmfg_obj.dir\$(Configuration)\fgframevoilut.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmfg\libsrc\dcmfg_obj.dir\$(Configuration)\fgpixeltransform.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmfg\libsrc\dcmfg_obj.dir\$(Configuration)\fgimagedatatype.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmfg\libsrc\dcmfg_obj.dir\$(Configuration)\fginterface.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmfg\libsrc\dcmfg_obj.dir\$(Configuration)\fgirradiationeventid.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmfg\libsrc\dcmfg_obj.dir\$(Configuration)\fgpixmsr.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmfg\libsrc\dcmfg_obj.dir\$(Configuration)\fgparametricmapframetype.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmfg\libsrc\dcmfg_obj.dir\$(Configuration)\fgplanor.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmfg\libsrc\dcmfg_obj.dir\$(Configuration)\fgplanorvol.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmfg\libsrc\dcmfg_obj.dir\$(Configuration)\fgplanpo.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmfg\libsrc\dcmfg_obj.dir\$(Configuration)\fgplanposvol.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmfg\libsrc\dcmfg_obj.dir\$(Configuration)\fgrealworldvaluemapping.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmfg\libsrc\dcmfg_obj.dir\$(Configuration)\fgseg.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmfg\libsrc\dcmfg_obj.dir\$(Configuration)\fgtemporalposition.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmfg\libsrc\dcmfg_obj.dir\$(Configuration)\fgusimagedescription.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmfg\libsrc\dcmfg_obj.dir\$(Configuration)\fgtypes.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmfg\libsrc\dcmfg_obj.dir\$(Configuration)\stack.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmfg\libsrc\dcmfg_obj.dir\$(Configuration)\stackinterface.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmseg\libsrc\dcmseg_obj.dir\$(Configuration)\segdoc.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmseg\libsrc\dcmseg_obj.dir\$(Configuration)\segment.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmseg\libsrc\dcmseg_obj.dir\$(Configuration)\segtypes.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmseg\libsrc\dcmseg_obj.dir\$(Configuration)\segutils.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtract\libsrc\dcmtract_obj.dir\$(Configuration)\trctypes.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtract\libsrc\dcmtract_obj.dir\$(Configuration)\trctrackset.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtract\libsrc\dcmtract_obj.dir\$(Configuration)\trctrack.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtract\libsrc\dcmtract_obj.dir\$(Configuration)\trcmeasurement.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtract\libsrc\dcmtract_obj.dir\$(Configuration)\trcstatistic.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtract\libsrc\dcmtract_obj.dir\$(Configuration)\trcmodtractresults.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtract\libsrc\dcmtract_obj.dir\$(Configuration)\trctractographyresults.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmpmap\libsrc\dcmpmap_obj.dir\$(Configuration)\dpmmodparametricmapimage.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmpmap\libsrc\dcmpmap_obj.dir\$(Configuration)\dpmmodparametricmapseries.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmpmap\libsrc\dcmpmap_obj.dir\$(Configuration)\dpmparametricmapbase.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmpmap\libsrc\dcmpmap_obj.dir\$(Configuration)\dpmparametricmapiod.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmpmap\libsrc\dcmpmap_obj.dir\$(Configuration)\dpmtypes.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmect\libsrc\dcmect_obj.dir\$(Configuration)\enhanced_ct.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmect\libsrc\dcmect_obj.dir\$(Configuration)\types.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Object Libraries">
+      <UniqueIdentifier>{CF0E9D26-A71A-3421-BA99-B6BCFDB453E0}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

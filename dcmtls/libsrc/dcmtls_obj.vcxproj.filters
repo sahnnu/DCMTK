@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmtls\libsrc\tlscond.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmtls\libsrc\tlslayer.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmtls\libsrc\tlsopt.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmtls\libsrc\tlstrans.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmtls\libsrc\tlsscu.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmtls\libsrc\tlsciphr.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmtls\libsrc\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{9D341DA5-9A41-363E-924A-D1908269B634}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

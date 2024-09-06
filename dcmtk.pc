@@ -1,0 +1,14 @@
+prefix="C:/Program Files (x86)/DCMTK"
+exec_prefix="${prefix}"
+libdir="C:/Program Files (x86)/DCMTK/lib"
+includedir="${prefix}/include/"
+
+Name: DCMTK
+Description: DICOM Toolkit (DCMTK)
+URL: https://dcmtk.org
+Version: 3.6.8
+Requires: 
+Requires.private:  libopenjp2 libssl libcrypto libtiff-4 zlib
+Cflags: -I"${includedir}"
+Libs: -L"${libdir}"  -ldcmtk
+Libs.private: -L"${libdir}" 

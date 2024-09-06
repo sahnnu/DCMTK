@@ -1,0 +1,6 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/CMake/share/cmake-3.30/Modules/FindBISON.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/FindFLEX.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/FindPackageMessage.cmake
+C:/Users/sahnn/Downloads/dcmtk-3.6.8/dcmtk-3.6.8/oficonv/apps/CMakeLists.txt

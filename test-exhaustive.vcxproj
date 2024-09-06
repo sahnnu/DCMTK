@@ -1,0 +1,259 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PreferredToolArchitecture>x64</PreferredToolArchitecture>
+  </PropertyGroup>
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|x64">
+      <Configuration>Debug</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|x64">
+      <Configuration>Release</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="MinSizeRel|x64">
+      <Configuration>MinSizeRel</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="RelWithDebInfo|x64">
+      <Configuration>RelWithDebInfo</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{F8D80C9E-0DC4-32A8-ABA8-B47FDD879228}</ProjectGuid>
+    <Keyword>Win32Proj</Keyword>
+    <WindowsTargetPlatformVersion>10.0.22621.0</WindowsTargetPlatformVersion>
+    <Platform>x64</Platform>
+    <ProjectName>test-exhaustive</ProjectName>
+    <VCProjectUpgraderObjectName>NoUpgrade</VCProjectUpgraderObjectName>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
+    <ConfigurationType>Utility</ConfigurationType>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v143</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
+    <ConfigurationType>Utility</ConfigurationType>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v143</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'" Label="Configuration">
+    <ConfigurationType>Utility</ConfigurationType>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v143</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'" Label="Configuration">
+    <ConfigurationType>Utility</ConfigurationType>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v143</PlatformToolset>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup>
+    <_ProjectFileVersion>10.0.20506.1</_ProjectFileVersion>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">$(Platform)\$(Configuration)\$(ProjectName)\</IntDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='Release|x64'">$(Platform)\$(Configuration)\$(ProjectName)\</IntDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">$(Platform)\$(Configuration)\$(ProjectName)\</IntDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">$(Platform)\$(Configuration)\$(ProjectName)\</IntDir>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <Midl>
+      <AdditionalIncludeDirectories>C:\Users\sahnn\Downloads\dcmtk-3.6.8\config\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\ofstd\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\oflog\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\oficonv\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmdata\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmimgle\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmimage\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmjpeg\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmjpls\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmtls\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmnet\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmsr\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmsign\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmwlm\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmqrdb\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmpstat\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmrt\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmiod\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmfg\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmseg\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmtract\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmpmap\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmect\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <Midl>
+      <AdditionalIncludeDirectories>C:\Users\sahnn\Downloads\dcmtk-3.6.8\config\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\ofstd\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\oflog\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\oficonv\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmdata\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmimgle\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmimage\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmjpeg\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmjpls\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmtls\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmnet\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmsr\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmsign\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmwlm\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmqrdb\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmpstat\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmrt\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmiod\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmfg\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmseg\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmtract\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmpmap\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmect\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">
+    <Midl>
+      <AdditionalIncludeDirectories>C:\Users\sahnn\Downloads\dcmtk-3.6.8\config\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\ofstd\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\oflog\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\oficonv\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmdata\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmimgle\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmimage\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmjpeg\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmjpls\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmtls\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmnet\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmsr\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmsign\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmwlm\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmqrdb\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmpstat\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmrt\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmiod\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmfg\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmseg\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmtract\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmpmap\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmect\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">
+    <Midl>
+      <AdditionalIncludeDirectories>C:\Users\sahnn\Downloads\dcmtk-3.6.8\config\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\ofstd\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\oflog\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\oficonv\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmdata\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmimgle\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmimage\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmjpeg\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmjpls\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmtls\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmnet\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmsr\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmsign\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmwlm\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmqrdb\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmpstat\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmrt\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmiod\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmfg\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmseg\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmtract\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmpmap\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmect\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\CMakeFiles\ca3b41422c9d142b468418a1cca88c4e\test-exhaustive.rule">
+      <BuildInParallel Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</BuildInParallel>
+      <Message Condition="'$(Configuration)|$(Platform)'=='Debug|x64'"></Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">setlocal
+cd C:\Users\sahnn\Downloads\dcmtk-3.6.8
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -DCONFIG=Debug -P C:/Users/sahnn/Downloads/dcmtk-3.6.8/dcmtk-3.6.8/CMake/CTest/dcmtkCTestRunExhaustive.cmake
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">C:\Users\sahnn\Downloads\dcmtk-3.6.8\CMakeFiles\test-exhaustive</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">false</LinkObjects>
+      <VerifyInputsAndOutputsExist Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">false</VerifyInputsAndOutputsExist>
+      <BuildInParallel Condition="'$(Configuration)|$(Platform)'=='Release|x64'">true</BuildInParallel>
+      <Message Condition="'$(Configuration)|$(Platform)'=='Release|x64'"></Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='Release|x64'">setlocal
+cd C:\Users\sahnn\Downloads\dcmtk-3.6.8
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -DCONFIG=Release -P C:/Users/sahnn/Downloads/dcmtk-3.6.8/dcmtk-3.6.8/CMake/CTest/dcmtkCTestRunExhaustive.cmake
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">C:\Users\sahnn\Downloads\dcmtk-3.6.8\CMakeFiles\test-exhaustive</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Release|x64'">false</LinkObjects>
+      <VerifyInputsAndOutputsExist Condition="'$(Configuration)|$(Platform)'=='Release|x64'">false</VerifyInputsAndOutputsExist>
+      <BuildInParallel Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">true</BuildInParallel>
+      <Message Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'"></Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">setlocal
+cd C:\Users\sahnn\Downloads\dcmtk-3.6.8
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -DCONFIG=MinSizeRel -P C:/Users/sahnn/Downloads/dcmtk-3.6.8/dcmtk-3.6.8/CMake/CTest/dcmtkCTestRunExhaustive.cmake
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">C:\Users\sahnn\Downloads\dcmtk-3.6.8\CMakeFiles\test-exhaustive</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">false</LinkObjects>
+      <VerifyInputsAndOutputsExist Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">false</VerifyInputsAndOutputsExist>
+      <BuildInParallel Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">true</BuildInParallel>
+      <Message Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'"></Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">setlocal
+cd C:\Users\sahnn\Downloads\dcmtk-3.6.8
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -DCONFIG=RelWithDebInfo -P C:/Users/sahnn/Downloads/dcmtk-3.6.8/dcmtk-3.6.8/CMake/CTest/dcmtkCTestRunExhaustive.cmake
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">C:\Users\sahnn\Downloads\dcmtk-3.6.8\CMakeFiles\test-exhaustive</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">false</LinkObjects>
+      <VerifyInputsAndOutputsExist Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">false</VerifyInputsAndOutputsExist>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\CMakeLists.txt">
+      <UseUtf8Encoding>Always</UseUtf8Encoding>
+      <Message Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Building Custom Rule C:/Users/sahnn/Downloads/dcmtk-3.6.8/dcmtk-3.6.8/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/sahnn/Downloads/dcmtk-3.6.8/dcmtk-3.6.8 -BC:/Users/sahnn/Downloads/dcmtk-3.6.8 --check-stamp-file C:/Users/sahnn/Downloads/dcmtk-3.6.8/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">C:\Program Files\CMake\share\cmake-3.30\Modules\BasicConfigVersion-SameMajorVersion.cmake.in;C:\Program Files\CMake\share\cmake-3.30\Modules\CMakeCInformation.cmake;C:\Program Files\CMake\share\cmake-3.30\Modules\CMakeCXXInformation.cmake;C:\Program Files\CMake\share\cmake-3.30\Modules\CMakeCheckCompilerFlagCommonPatterns.cmake;C:\Program Files\CMake\share\cmake-3.30\Modules\CMakeCommonLanguageInclude.cmake;C:\Program Files\CMake\share\cmake-3.30\Modules\CMakeGenericSystem.cmake;C:\Program Files\CMake\share\cmake-3.30\Modules\CMakeInitializeConfigs.cmake;C:\Program Files\CMake\share\cmake-3.30\Modules\CMakeLanguageInformation.cmake;C:\Program Files\CMake\share\cmake-3.30\Modules\CMakePackageConfigHelpers.cmake;C:\Program Files\CMake\share\cmake-3.30\Modules\CMakeParseArguments.cmake;C:\Program Files\CMake\share\cmake-3.30\Modules\CMakeRCInformation.cmake;C:\Program Files\CMake\share\cmake-3.30\Modules\CMakeSystemSpecificInformation.cmake;C:\Program Files\CMake\share\cmake-3.30\Modules\CMakeSystemSpecificInitialize.cmake;C:\Program Files\CMake\share\cmake-3.30\Modules\CheckCXXCompilerFlag.cmake;C:\Program Files\CMake\share\cmake-3.30\Modules\CheckCXXSourceCompiles.cmake;C:\Program Files\CMake\share\cmake-3.30\Modules\CheckCXXSymbolExists.cmake;C:\Program Files\CMake\share\cmake-3.30\Modules\CheckFunctionExists.cmake;C:\Program Files\CMake\share\cmake-3.30\Modules\CheckIncludeFile.cmake;C:\Program Files\CMake\share\cmake-3.30\Modules\CheckIncludeFileCXX.cmake;C:\Program Files\CMake\share\cmake-3.30\Modules\CheckIncludeFiles.cmake;C:\Program Files\CMake\share\cmake-3.30\Modules\CheckLibraryExists.cmake;C:\Program Files\CMake\share\cmake-3.30\Modules\CheckSymbolExists.cmake;C:\Program Files\CMake\share\cmake-3.30\Modules\CheckTypeSize.cmake;C:\Program Files\CMake\share\cmake-3.30\Modules\Compiler\CMakeCommonCompilerMacros.cmake;C:\Program Files\CMake\share\cmake-3.30\Modules\Compiler\MSVC-C.cmake;C:\Program Files\CMake\share\cmake-3.30\Modules\Compiler\MSVC-CXX.cmake;C:\Program Files\CMake\share\cmake-3.30\Modules\Compiler\MSVC.cmake;C:\Program Files\CMake\share\cmake-3.30\Modules\GNUInstallDirs.cmake;C:\Program Files\CMake\share\cmake-3.30\Modules\Internal\CheckCompilerFlag.cmake;C:\Program Files\CMake\share\cmake-3.30\Modules\Internal\CheckFlagCommonConfig.cmake;C:\Program Files\CMake\share\cmake-3.30\Modules\Internal\CheckSourceCompiles.cmake;C:\Program Files\CMake\share\cmake-3.30\Modules\Platform\Windows-Initialize.cmake;C:\Program Files\CMake\share\cmake-3.30\Modules\Platform\Windows-MSVC-C.cmake;C:\Program Files\CMake\share\cmake-3.30\Modules\Platform\Windows-MSVC-CXX.cmake;C:\Program Files\CMake\share\cmake-3.30\Modules\Platform\Windows-MSVC.cmake;C:\Program Files\CMake\share\cmake-3.30\Modules\Platform\Windows.cmake;C:\Program Files\CMake\share\cmake-3.30\Modules\Platform\WindowsPaths.cmake;C:\Program Files\CMake\share\cmake-3.30\Modules\WriteBasicConfigVersionFile.cmake;C:\Users\sahnn\Downloads\dcmtk-3.6.8\CMakeFiles\3.30.3\CMakeCCompiler.cmake;C:\Users\sahnn\Downloads\dcmtk-3.6.8\CMakeFiles\3.30.3\CMakeCXXCompiler.cmake;C:\Users\sahnn\Downloads\dcmtk-3.6.8\CMakeFiles\3.30.3\CMakeRCCompiler.cmake;C:\Users\sahnn\Downloads\dcmtk-3.6.8\CMakeFiles\3.30.3\CMakeSystem.cmake;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\CMake\3rdparty.cmake;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\CMake\CTest\dcmtkCTestRun.cmake.in;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\CMake\CheckCMakeCommandExists.cmake;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\CMake\CheckFunctionWithHeaderExists.cmake;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\CMake\DCMTKConfig.cmake.in;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\CMake\GenerateCMakeExports.cmake;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\CMake\GenerateDCMTKConfigure.cmake;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\CMake\dcmtk.pc.in;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\CMake\dcmtkAfterModules.cmake;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\CMake\dcmtkMacros.cmake;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\CMake\dcmtkPrepare.cmake;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\CMake\dcmtkTryCompile.cmake;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\CMake\dcmtkTryRun.cmake;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\CMake\osconfig.h.in;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\config\tests\algo.cc;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\config\tests\cxx11.cc;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\config\tests\limits.cc;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\config\tests\list.cc;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\config\tests\map.cc;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\config\tests\memory.cc;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\config\tests\stack.cc;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\config\tests\string.cc;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\config\tests\syserr.cc;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\config\tests\ttraits.cc;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\config\tests\tuple.cc;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\config\tests\vector.cc;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">C:\Users\sahnn\Downloads\dcmtk-3.6.8\CMakeFiles\generate.stamp</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">false</LinkObjects>
+      <Message Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Building Custom Rule C:/Users/sahnn/Downloads/dcmtk-3.6.8/dcmtk-3.6.8/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='Release|x64'">setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/sahnn/Downloads/dcmtk-3.6.8/dcmtk-3.6.8 -BC:/Users/sahnn/Downloads/dcmtk-3.6.8 --check-stamp-file C:/Users/sahnn/Downloads/dcmtk-3.6.8/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">C:\Program Files\CMake\share\cmake-3.30\Modules\BasicConfigVersion-SameMajorVersion.cmake.in;C:\Program Files\CMake\share\cmake-3.30\Modules\CMakeCInformation.cmake;C:\Program Files\CMake\share\cmake-3.30\Modules\CMakeCXXInformation.cmake;C:\Program Files\CMake\share\cmake-3.30\Modules\CMakeCheckCompilerFlagCommonPatterns.cmake;C:\Program Files\CMake\share\cmake-3.30\Modules\CMakeCommonLanguageInclude.cmake;C:\Program Files\CMake\share\cmake-3.30\Modules\CMakeGenericSystem.cmake;C:\Program Files\CMake\share\cmake-3.30\Modules\CMakeInitializeConfigs.cmake;C:\Program Files\CMake\share\cmake-3.30\Modules\CMakeLanguageInformation.cmake;C:\Program Files\CMake\share\cmake-3.30\Modules\CMakePackageConfigHelpers.cmake;C:\Program Files\CMake\share\cmake-3.30\Modules\CMakeParseArguments.cmake;C:\Program Files\CMake\share\cmake-3.30\Modules\CMakeRCInformation.cmake;C:\Program Files\CMake\share\cmake-3.30\Modules\CMakeSystemSpecificInformation.cmake;C:\Program Files\CMake\share\cmake-3.30\Modules\CMakeSystemSpecificInitialize.cmake;C:\Program Files\CMake\share\cmake-3.30\Modules\CheckCXXCompilerFlag.cmake;C:\Program Files\CMake\share\cmake-3.30\Modules\CheckCXXSourceCompiles.cmake;C:\Program Files\CMake\share\cmake-3.30\Modules\CheckCXXSymbolExists.cmake;C:\Program Files\CMake\share\cmake-3.30\Modules\CheckFunctionExists.cmake;C:\Program Files\CMake\share\cmake-3.30\Modules\CheckIncludeFile.cmake;C:\Program Files\CMake\share\cmake-3.30\Modules\CheckIncludeFileCXX.cmake;C:\Program Files\CMake\share\cmake-3.30\Modules\CheckIncludeFiles.cmake;C:\Program Files\CMake\share\cmake-3.30\Modules\CheckLibraryExists.cmake;C:\Program Files\CMake\share\cmake-3.30\Modules\CheckSymbolExists.cmake;C:\Program Files\CMake\share\cmake-3.30\Modules\CheckTypeSize.cmake;C:\Program Files\CMake\share\cmake-3.30\Modules\Compiler\CMakeCommonCompilerMacros.cmake;C:\Program Files\CMake\share\cmake-3.30\Modules\Compiler\MSVC-C.cmake;C:\Program Files\CMake\share\cmake-3.30\Modules\Compiler\MSVC-CXX.cmake;C:\Program Files\CMake\share\cmake-3.30\Modules\Compiler\MSVC.cmake;C:\Program Files\CMake\share\cmake-3.30\Modules\GNUInstallDirs.cmake;C:\Program Files\CMake\share\cmake-3.30\Modules\Internal\CheckCompilerFlag.cmake;C:\Program Files\CMake\share\cmake-3.30\Modules\Internal\CheckFlagCommonConfig.cmake;C:\Program Files\CMake\share\cmake-3.30\Modules\Internal\CheckSourceCompiles.cmake;C:\Program Files\CMake\share\cmake-3.30\Modules\Platform\Windows-Initialize.cmake;C:\Program Files\CMake\share\cmake-3.30\Modules\Platform\Windows-MSVC-C.cmake;C:\Program Files\CMake\share\cmake-3.30\Modules\Platform\Windows-MSVC-CXX.cmake;C:\Program Files\CMake\share\cmake-3.30\Modules\Platform\Windows-MSVC.cmake;C:\Program Files\CMake\share\cmake-3.30\Modules\Platform\Windows.cmake;C:\Program Files\CMake\share\cmake-3.30\Modules\Platform\WindowsPaths.cmake;C:\Program Files\CMake\share\cmake-3.30\Modules\WriteBasicConfigVersionFile.cmake;C:\Users\sahnn\Downloads\dcmtk-3.6.8\CMakeFiles\3.30.3\CMakeCCompiler.cmake;C:\Users\sahnn\Downloads\dcmtk-3.6.8\CMakeFiles\3.30.3\CMakeCXXCompiler.cmake;C:\Users\sahnn\Downloads\dcmtk-3.6.8\CMakeFiles\3.30.3\CMakeRCCompiler.cmake;C:\Users\sahnn\Downloads\dcmtk-3.6.8\CMakeFiles\3.30.3\CMakeSystem.cmake;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\CMake\3rdparty.cmake;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\CMake\CTest\dcmtkCTestRun.cmake.in;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\CMake\CheckCMakeCommandExists.cmake;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\CMake\CheckFunctionWithHeaderExists.cmake;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\CMake\DCMTKConfig.cmake.in;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\CMake\GenerateCMakeExports.cmake;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\CMake\GenerateDCMTKConfigure.cmake;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\CMake\dcmtk.pc.in;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\CMake\dcmtkAfterModules.cmake;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\CMake\dcmtkMacros.cmake;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\CMake\dcmtkPrepare.cmake;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\CMake\dcmtkTryCompile.cmake;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\CMake\dcmtkTryRun.cmake;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\CMake\osconfig.h.in;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\config\tests\algo.cc;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\config\tests\cxx11.cc;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\config\tests\limits.cc;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\config\tests\list.cc;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\config\tests\map.cc;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\config\tests\memory.cc;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\config\tests\stack.cc;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\config\tests\string.cc;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\config\tests\syserr.cc;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\config\tests\ttraits.cc;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\config\tests\tuple.cc;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\config\tests\vector.cc;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">C:\Users\sahnn\Downloads\dcmtk-3.6.8\CMakeFiles\generate.stamp</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Release|x64'">false</LinkObjects>
+      <Message Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">Building Custom Rule C:/Users/sahnn/Downloads/dcmtk-3.6.8/dcmtk-3.6.8/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/sahnn/Downloads/dcmtk-3.6.8/dcmtk-3.6.8 -BC:/Users/sahnn/Downloads/dcmtk-3.6.8 --check-stamp-file C:/Users/sahnn/Downloads/dcmtk-3.6.8/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">C:\Program Files\CMake\share\cmake-3.30\Modules\BasicConfigVersion-SameMajorVersion.cmake.in;C:\Program Files\CMake\share\cmake-3.30\Modules\CMakeCInformation.cmake;C:\Program Files\CMake\share\cmake-3.30\Modules\CMakeCXXInformation.cmake;C:\Program Files\CMake\share\cmake-3.30\Modules\CMakeCheckCompilerFlagCommonPatterns.cmake;C:\Program Files\CMake\share\cmake-3.30\Modules\CMakeCommonLanguageInclude.cmake;C:\Program Files\CMake\share\cmake-3.30\Modules\CMakeGenericSystem.cmake;C:\Program Files\CMake\share\cmake-3.30\Modules\CMakeInitializeConfigs.cmake;C:\Program Files\CMake\share\cmake-3.30\Modules\CMakeLanguageInformation.cmake;C:\Program Files\CMake\share\cmake-3.30\Modules\CMakePackageConfigHelpers.cmake;C:\Program Files\CMake\share\cmake-3.30\Modules\CMakeParseArguments.cmake;C:\Program Files\CMake\share\cmake-3.30\Modules\CMakeRCInformation.cmake;C:\Program Files\CMake\share\cmake-3.30\Modules\CMakeSystemSpecificInformation.cmake;C:\Program Files\CMake\share\cmake-3.30\Modules\CMakeSystemSpecificInitialize.cmake;C:\Program Files\CMake\share\cmake-3.30\Modules\CheckCXXCompilerFlag.cmake;C:\Program Files\CMake\share\cmake-3.30\Modules\CheckCXXSourceCompiles.cmake;C:\Program Files\CMake\share\cmake-3.30\Modules\CheckCXXSymbolExists.cmake;C:\Program Files\CMake\share\cmake-3.30\Modules\CheckFunctionExists.cmake;C:\Program Files\CMake\share\cmake-3.30\Modules\CheckIncludeFile.cmake;C:\Program Files\CMake\share\cmake-3.30\Modules\CheckIncludeFileCXX.cmake;C:\Program Files\CMake\share\cmake-3.30\Modules\CheckIncludeFiles.cmake;C:\Program Files\CMake\share\cmake-3.30\Modules\CheckLibraryExists.cmake;C:\Program Files\CMake\share\cmake-3.30\Modules\CheckSymbolExists.cmake;C:\Program Files\CMake\share\cmake-3.30\Modules\CheckTypeSize.cmake;C:\Program Files\CMake\share\cmake-3.30\Modules\Compiler\CMakeCommonCompilerMacros.cmake;C:\Program Files\CMake\share\cmake-3.30\Modules\Compiler\MSVC-C.cmake;C:\Program Files\CMake\share\cmake-3.30\Modules\Compiler\MSVC-CXX.cmake;C:\Program Files\CMake\share\cmake-3.30\Modules\Compiler\MSVC.cmake;C:\Program Files\CMake\share\cmake-3.30\Modules\GNUInstallDirs.cmake;C:\Program Files\CMake\share\cmake-3.30\Modules\Internal\CheckCompilerFlag.cmake;C:\Program Files\CMake\share\cmake-3.30\Modules\Internal\CheckFlagCommonConfig.cmake;C:\Program Files\CMake\share\cmake-3.30\Modules\Internal\CheckSourceCompiles.cmake;C:\Program Files\CMake\share\cmake-3.30\Modules\Platform\Windows-Initialize.cmake;C:\Program Files\CMake\share\cmake-3.30\Modules\Platform\Windows-MSVC-C.cmake;C:\Program Files\CMake\share\cmake-3.30\Modules\Platform\Windows-MSVC-CXX.cmake;C:\Program Files\CMake\share\cmake-3.30\Modules\Platform\Windows-MSVC.cmake;C:\Program Files\CMake\share\cmake-3.30\Modules\Platform\Windows.cmake;C:\Program Files\CMake\share\cmake-3.30\Modules\Platform\WindowsPaths.cmake;C:\Program Files\CMake\share\cmake-3.30\Modules\WriteBasicConfigVersionFile.cmake;C:\Users\sahnn\Downloads\dcmtk-3.6.8\CMakeFiles\3.30.3\CMakeCCompiler.cmake;C:\Users\sahnn\Downloads\dcmtk-3.6.8\CMakeFiles\3.30.3\CMakeCXXCompiler.cmake;C:\Users\sahnn\Downloads\dcmtk-3.6.8\CMakeFiles\3.30.3\CMakeRCCompiler.cmake;C:\Users\sahnn\Downloads\dcmtk-3.6.8\CMakeFiles\3.30.3\CMakeSystem.cmake;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\CMake\3rdparty.cmake;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\CMake\CTest\dcmtkCTestRun.cmake.in;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\CMake\CheckCMakeCommandExists.cmake;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\CMake\CheckFunctionWithHeaderExists.cmake;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\CMake\DCMTKConfig.cmake.in;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\CMake\GenerateCMakeExports.cmake;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\CMake\GenerateDCMTKConfigure.cmake;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\CMake\dcmtk.pc.in;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\CMake\dcmtkAfterModules.cmake;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\CMake\dcmtkMacros.cmake;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\CMake\dcmtkPrepare.cmake;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\CMake\dcmtkTryCompile.cmake;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\CMake\dcmtkTryRun.cmake;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\CMake\osconfig.h.in;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\config\tests\algo.cc;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\config\tests\cxx11.cc;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\config\tests\limits.cc;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\config\tests\list.cc;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\config\tests\map.cc;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\config\tests\memory.cc;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\config\tests\stack.cc;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\config\tests\string.cc;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\config\tests\syserr.cc;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\config\tests\ttraits.cc;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\config\tests\tuple.cc;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\config\tests\vector.cc;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">C:\Users\sahnn\Downloads\dcmtk-3.6.8\CMakeFiles\generate.stamp</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">false</LinkObjects>
+      <Message Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">Building Custom Rule C:/Users/sahnn/Downloads/dcmtk-3.6.8/dcmtk-3.6.8/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/sahnn/Downloads/dcmtk-3.6.8/dcmtk-3.6.8 -BC:/Users/sahnn/Downloads/dcmtk-3.6.8 --check-stamp-file C:/Users/sahnn/Downloads/dcmtk-3.6.8/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">C:\Program Files\CMake\share\cmake-3.30\Modules\BasicConfigVersion-SameMajorVersion.cmake.in;C:\Program Files\CMake\share\cmake-3.30\Modules\CMakeCInformation.cmake;C:\Program Files\CMake\share\cmake-3.30\Modules\CMakeCXXInformation.cmake;C:\Program Files\CMake\share\cmake-3.30\Modules\CMakeCheckCompilerFlagCommonPatterns.cmake;C:\Program Files\CMake\share\cmake-3.30\Modules\CMakeCommonLanguageInclude.cmake;C:\Program Files\CMake\share\cmake-3.30\Modules\CMakeGenericSystem.cmake;C:\Program Files\CMake\share\cmake-3.30\Modules\CMakeInitializeConfigs.cmake;C:\Program Files\CMake\share\cmake-3.30\Modules\CMakeLanguageInformation.cmake;C:\Program Files\CMake\share\cmake-3.30\Modules\CMakePackageConfigHelpers.cmake;C:\Program Files\CMake\share\cmake-3.30\Modules\CMakeParseArguments.cmake;C:\Program Files\CMake\share\cmake-3.30\Modules\CMakeRCInformation.cmake;C:\Program Files\CMake\share\cmake-3.30\Modules\CMakeSystemSpecificInformation.cmake;C:\Program Files\CMake\share\cmake-3.30\Modules\CMakeSystemSpecificInitialize.cmake;C:\Program Files\CMake\share\cmake-3.30\Modules\CheckCXXCompilerFlag.cmake;C:\Program Files\CMake\share\cmake-3.30\Modules\CheckCXXSourceCompiles.cmake;C:\Program Files\CMake\share\cmake-3.30\Modules\CheckCXXSymbolExists.cmake;C:\Program Files\CMake\share\cmake-3.30\Modules\CheckFunctionExists.cmake;C:\Program Files\CMake\share\cmake-3.30\Modules\CheckIncludeFile.cmake;C:\Program Files\CMake\share\cmake-3.30\Modules\CheckIncludeFileCXX.cmake;C:\Program Files\CMake\share\cmake-3.30\Modules\CheckIncludeFiles.cmake;C:\Program Files\CMake\share\cmake-3.30\Modules\CheckLibraryExists.cmake;C:\Program Files\CMake\share\cmake-3.30\Modules\CheckSymbolExists.cmake;C:\Program Files\CMake\share\cmake-3.30\Modules\CheckTypeSize.cmake;C:\Program Files\CMake\share\cmake-3.30\Modules\Compiler\CMakeCommonCompilerMacros.cmake;C:\Program Files\CMake\share\cmake-3.30\Modules\Compiler\MSVC-C.cmake;C:\Program Files\CMake\share\cmake-3.30\Modules\Compiler\MSVC-CXX.cmake;C:\Program Files\CMake\share\cmake-3.30\Modules\Compiler\MSVC.cmake;C:\Program Files\CMake\share\cmake-3.30\Modules\GNUInstallDirs.cmake;C:\Program Files\CMake\share\cmake-3.30\Modules\Internal\CheckCompilerFlag.cmake;C:\Program Files\CMake\share\cmake-3.30\Modules\Internal\CheckFlagCommonConfig.cmake;C:\Program Files\CMake\share\cmake-3.30\Modules\Internal\CheckSourceCompiles.cmake;C:\Program Files\CMake\share\cmake-3.30\Modules\Platform\Windows-Initialize.cmake;C:\Program Files\CMake\share\cmake-3.30\Modules\Platform\Windows-MSVC-C.cmake;C:\Program Files\CMake\share\cmake-3.30\Modules\Platform\Windows-MSVC-CXX.cmake;C:\Program Files\CMake\share\cmake-3.30\Modules\Platform\Windows-MSVC.cmake;C:\Program Files\CMake\share\cmake-3.30\Modules\Platform\Windows.cmake;C:\Program Files\CMake\share\cmake-3.30\Modules\Platform\WindowsPaths.cmake;C:\Program Files\CMake\share\cmake-3.30\Modules\WriteBasicConfigVersionFile.cmake;C:\Users\sahnn\Downloads\dcmtk-3.6.8\CMakeFiles\3.30.3\CMakeCCompiler.cmake;C:\Users\sahnn\Downloads\dcmtk-3.6.8\CMakeFiles\3.30.3\CMakeCXXCompiler.cmake;C:\Users\sahnn\Downloads\dcmtk-3.6.8\CMakeFiles\3.30.3\CMakeRCCompiler.cmake;C:\Users\sahnn\Downloads\dcmtk-3.6.8\CMakeFiles\3.30.3\CMakeSystem.cmake;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\CMake\3rdparty.cmake;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\CMake\CTest\dcmtkCTestRun.cmake.in;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\CMake\CheckCMakeCommandExists.cmake;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\CMake\CheckFunctionWithHeaderExists.cmake;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\CMake\DCMTKConfig.cmake.in;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\CMake\GenerateCMakeExports.cmake;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\CMake\GenerateDCMTKConfigure.cmake;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\CMake\dcmtk.pc.in;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\CMake\dcmtkAfterModules.cmake;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\CMake\dcmtkMacros.cmake;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\CMake\dcmtkPrepare.cmake;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\CMake\dcmtkTryCompile.cmake;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\CMake\dcmtkTryRun.cmake;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\CMake\osconfig.h.in;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\config\tests\algo.cc;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\config\tests\cxx11.cc;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\config\tests\limits.cc;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\config\tests\list.cc;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\config\tests\map.cc;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\config\tests\memory.cc;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\config\tests\stack.cc;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\config\tests\string.cc;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\config\tests\syserr.cc;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\config\tests\ttraits.cc;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\config\tests\tuple.cc;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\config\tests\vector.cc;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">C:\Users\sahnn\Downloads\dcmtk-3.6.8\CMakeFiles\generate.stamp</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">false</LinkObjects>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\CMakeFiles\test-exhaustive">
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\ZERO_CHECK.vcxproj">
+      <Project>{DF6110EE-D3E6-3F40-A841-10133C4C60D6}</Project>
+      <Name>ZERO_CHECK</Name>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

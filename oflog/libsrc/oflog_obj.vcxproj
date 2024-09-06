@@ -1,0 +1,349 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PreferredToolArchitecture>x64</PreferredToolArchitecture>
+  </PropertyGroup>
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|x64">
+      <Configuration>Debug</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|x64">
+      <Configuration>Release</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="MinSizeRel|x64">
+      <Configuration>MinSizeRel</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="RelWithDebInfo|x64">
+      <Configuration>RelWithDebInfo</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{236A3B9F-A61C-3C83-B08B-2174EA6CB32C}</ProjectGuid>
+    <Keyword>Win32Proj</Keyword>
+    <WindowsTargetPlatformVersion>10.0.22621.0</WindowsTargetPlatformVersion>
+    <Platform>x64</Platform>
+    <ProjectName>oflog_obj</ProjectName>
+    <VCProjectUpgraderObjectName>NoUpgrade</VCProjectUpgraderObjectName>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
+    <ConfigurationType>StaticLibrary</ConfigurationType>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v143</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
+    <ConfigurationType>StaticLibrary</ConfigurationType>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v143</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'" Label="Configuration">
+    <ConfigurationType>StaticLibrary</ConfigurationType>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v143</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'" Label="Configuration">
+    <ConfigurationType>StaticLibrary</ConfigurationType>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v143</PlatformToolset>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup>
+    <_ProjectFileVersion>10.0.20506.1</_ProjectFileVersion>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">oflog_obj.dir\Debug\</OutDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">oflog_obj.dir\Debug\</IntDir>
+    <TargetName Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">oflog_obj</TargetName>
+    <TargetExt Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">.lib</TargetExt>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='Release|x64'">oflog_obj.dir\Release\</OutDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='Release|x64'">oflog_obj.dir\Release\</IntDir>
+    <TargetName Condition="'$(Configuration)|$(Platform)'=='Release|x64'">oflog_obj</TargetName>
+    <TargetExt Condition="'$(Configuration)|$(Platform)'=='Release|x64'">.lib</TargetExt>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">oflog_obj.dir\MinSizeRel\</OutDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">oflog_obj.dir\MinSizeRel\</IntDir>
+    <TargetName Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">oflog_obj</TargetName>
+    <TargetExt Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">.lib</TargetExt>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">oflog_obj.dir\RelWithDebInfo\</OutDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">oflog_obj.dir\RelWithDebInfo\</IntDir>
+    <TargetName Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">oflog_obj</TargetName>
+    <TargetExt Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">.lib</TargetExt>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <ClCompile>
+      <AdditionalIncludeDirectories>C:\Users\sahnn\Downloads\dcmtk-3.6.8\config\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\ofstd\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\oflog\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\oficonv\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmdata\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmimgle\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmimage\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmjpeg\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmjpls\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmtls\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmnet\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmsr\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmsign\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmwlm\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmqrdb\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmpstat\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmrt\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmiod\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmfg\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmseg\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmtract\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmpmap\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmect\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalOptions>%(AdditionalOptions) /Zc:__cplusplus</AdditionalOptions>
+      <AssemblerListingLocation>$(IntDir)</AssemblerListingLocation>
+      <BasicRuntimeChecks>EnableFastChecks</BasicRuntimeChecks>
+      <DebugInformationFormat>ProgramDatabase</DebugInformationFormat>
+      <ExceptionHandling>Sync</ExceptionHandling>
+      <InlineFunctionExpansion>Disabled</InlineFunctionExpansion>
+      <MinimalRebuild></MinimalRebuild>
+      <Optimization>Disabled</Optimization>
+      <PrecompiledHeader>NotUsing</PrecompiledHeader>
+      <RuntimeLibrary>MultiThreadedDebugDLL</RuntimeLibrary>
+      <SupportJustMyCode></SupportJustMyCode>
+      <UseFullPaths>false</UseFullPaths>
+      <WarningLevel>Level4</WarningLevel>
+      <PreprocessorDefinitions>%(PreprocessorDefinitions);WIN32;_WINDOWS;DEBUG;oflog_EXPORTS;USE_NULL_SAFE_OFSTRING;DCMTK_BUILD_IN_PROGRESS;NOMINMAX;_CRT_FAR_MAPPINGS_NO_DEPRECATE;_CRT_IS_WCTYPE_NO_DEPRECATE;_CRT_MANAGED_FP_NO_DEPRECATE;_CRT_NONSTDC_NO_DEPRECATE;_CRT_SECURE_NO_DEPRECATE;_CRT_SECURE_NO_DEPRECATE_GLOBALS;_CRT_SETERRORMODE_BEEP_SLEEP_NO_DEPRECATE;_CRT_TIME_FUNCTIONS_NO_DEPRECATE;_CRT_VCCLRIT_NO_DEPRECATE;_SCL_SECURE_NO_DEPRECATE;LIBXML_STATIC;_REENTRANT;CMAKE_INTDIR="Debug"</PreprocessorDefinitions>
+      <ObjectFileName>$(IntDir)</ObjectFileName>
+      <ScanSourceForModuleDependencies>false</ScanSourceForModuleDependencies>
+    </ClCompile>
+    <ResourceCompile>
+      <PreprocessorDefinitions>%(PreprocessorDefinitions);WIN32;_DEBUG;_WINDOWS;DEBUG;oflog_EXPORTS;USE_NULL_SAFE_OFSTRING;DCMTK_BUILD_IN_PROGRESS;NOMINMAX;_CRT_FAR_MAPPINGS_NO_DEPRECATE;_CRT_IS_WCTYPE_NO_DEPRECATE;_CRT_MANAGED_FP_NO_DEPRECATE;_CRT_NONSTDC_NO_DEPRECATE;_CRT_SECURE_NO_DEPRECATE;_CRT_SECURE_NO_DEPRECATE_GLOBALS;_CRT_SETERRORMODE_BEEP_SLEEP_NO_DEPRECATE;_CRT_TIME_FUNCTIONS_NO_DEPRECATE;_CRT_VCCLRIT_NO_DEPRECATE;_SCL_SECURE_NO_DEPRECATE;LIBXML_STATIC;_REENTRANT;CMAKE_INTDIR=\"Debug\"</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>C:\Users\sahnn\Downloads\dcmtk-3.6.8\config\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\ofstd\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\oflog\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\oficonv\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmdata\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmimgle\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmimage\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmjpeg\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmjpls\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmtls\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmnet\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmsr\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmsign\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmwlm\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmqrdb\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmpstat\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmrt\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmiod\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmfg\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmseg\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmtract\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmpmap\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmect\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ResourceCompile>
+    <Midl>
+      <AdditionalIncludeDirectories>C:\Users\sahnn\Downloads\dcmtk-3.6.8\config\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\ofstd\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\oflog\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\oficonv\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmdata\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmimgle\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmimage\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmjpeg\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmjpls\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmtls\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmnet\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmsr\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmsign\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmwlm\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmqrdb\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmpstat\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmrt\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmiod\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmfg\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmseg\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmtract\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmpmap\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmect\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+    <Lib>
+      <AdditionalOptions>%(AdditionalOptions) /machine:x64</AdditionalOptions>
+    </Lib>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <ClCompile>
+      <AdditionalIncludeDirectories>C:\Users\sahnn\Downloads\dcmtk-3.6.8\config\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\ofstd\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\oflog\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\oficonv\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmdata\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmimgle\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmimage\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmjpeg\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmjpls\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmtls\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmnet\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmsr\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmsign\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmwlm\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmqrdb\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmpstat\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmrt\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmiod\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmfg\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmseg\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmtract\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmpmap\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmect\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalOptions>%(AdditionalOptions) /Zc:__cplusplus</AdditionalOptions>
+      <AssemblerListingLocation>$(IntDir)</AssemblerListingLocation>
+      <BasicRuntimeChecks>Default</BasicRuntimeChecks>
+      <ExceptionHandling>Sync</ExceptionHandling>
+      <InlineFunctionExpansion>AnySuitable</InlineFunctionExpansion>
+      <MinimalRebuild></MinimalRebuild>
+      <Optimization>MaxSpeed</Optimization>
+      <PrecompiledHeader>NotUsing</PrecompiledHeader>
+      <RuntimeLibrary>MultiThreadedDLL</RuntimeLibrary>
+      <SupportJustMyCode></SupportJustMyCode>
+      <UseFullPaths>false</UseFullPaths>
+      <WarningLevel>Level4</WarningLevel>
+      <PreprocessorDefinitions>%(PreprocessorDefinitions);WIN32;_WINDOWS;NDEBUG;oflog_EXPORTS;USE_NULL_SAFE_OFSTRING;DCMTK_BUILD_IN_PROGRESS;NOMINMAX;_CRT_FAR_MAPPINGS_NO_DEPRECATE;_CRT_IS_WCTYPE_NO_DEPRECATE;_CRT_MANAGED_FP_NO_DEPRECATE;_CRT_NONSTDC_NO_DEPRECATE;_CRT_SECURE_NO_DEPRECATE;_CRT_SECURE_NO_DEPRECATE_GLOBALS;_CRT_SETERRORMODE_BEEP_SLEEP_NO_DEPRECATE;_CRT_TIME_FUNCTIONS_NO_DEPRECATE;_CRT_VCCLRIT_NO_DEPRECATE;_SCL_SECURE_NO_DEPRECATE;LIBXML_STATIC;_REENTRANT;CMAKE_INTDIR="Release"</PreprocessorDefinitions>
+      <ObjectFileName>$(IntDir)</ObjectFileName>
+      <DebugInformationFormat>
+      </DebugInformationFormat>
+      <ScanSourceForModuleDependencies>false</ScanSourceForModuleDependencies>
+    </ClCompile>
+    <ResourceCompile>
+      <PreprocessorDefinitions>%(PreprocessorDefinitions);WIN32;_WINDOWS;NDEBUG;oflog_EXPORTS;USE_NULL_SAFE_OFSTRING;DCMTK_BUILD_IN_PROGRESS;NOMINMAX;_CRT_FAR_MAPPINGS_NO_DEPRECATE;_CRT_IS_WCTYPE_NO_DEPRECATE;_CRT_MANAGED_FP_NO_DEPRECATE;_CRT_NONSTDC_NO_DEPRECATE;_CRT_SECURE_NO_DEPRECATE;_CRT_SECURE_NO_DEPRECATE_GLOBALS;_CRT_SETERRORMODE_BEEP_SLEEP_NO_DEPRECATE;_CRT_TIME_FUNCTIONS_NO_DEPRECATE;_CRT_VCCLRIT_NO_DEPRECATE;_SCL_SECURE_NO_DEPRECATE;LIBXML_STATIC;_REENTRANT;CMAKE_INTDIR=\"Release\"</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>C:\Users\sahnn\Downloads\dcmtk-3.6.8\config\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\ofstd\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\oflog\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\oficonv\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmdata\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmimgle\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmimage\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmjpeg\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmjpls\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmtls\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmnet\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmsr\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmsign\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmwlm\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmqrdb\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmpstat\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmrt\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmiod\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmfg\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmseg\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmtract\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmpmap\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmect\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ResourceCompile>
+    <Midl>
+      <AdditionalIncludeDirectories>C:\Users\sahnn\Downloads\dcmtk-3.6.8\config\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\ofstd\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\oflog\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\oficonv\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmdata\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmimgle\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmimage\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmjpeg\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmjpls\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmtls\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmnet\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmsr\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmsign\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmwlm\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmqrdb\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmpstat\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmrt\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmiod\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmfg\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmseg\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmtract\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmpmap\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmect\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+    <Lib>
+      <AdditionalOptions>%(AdditionalOptions) /machine:x64</AdditionalOptions>
+    </Lib>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">
+    <ClCompile>
+      <AdditionalIncludeDirectories>C:\Users\sahnn\Downloads\dcmtk-3.6.8\config\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\ofstd\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\oflog\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\oficonv\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmdata\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmimgle\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmimage\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmjpeg\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmjpls\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmtls\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmnet\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmsr\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmsign\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmwlm\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmqrdb\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmpstat\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmrt\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmiod\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmfg\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmseg\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmtract\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmpmap\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmect\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalOptions>%(AdditionalOptions) /Zc:__cplusplus</AdditionalOptions>
+      <AssemblerListingLocation>$(IntDir)</AssemblerListingLocation>
+      <BasicRuntimeChecks>Default</BasicRuntimeChecks>
+      <ExceptionHandling>Sync</ExceptionHandling>
+      <InlineFunctionExpansion>OnlyExplicitInline</InlineFunctionExpansion>
+      <MinimalRebuild></MinimalRebuild>
+      <Optimization>MinSpace</Optimization>
+      <PrecompiledHeader>NotUsing</PrecompiledHeader>
+      <RuntimeLibrary>MultiThreadedDLL</RuntimeLibrary>
+      <SupportJustMyCode></SupportJustMyCode>
+      <UseFullPaths>false</UseFullPaths>
+      <WarningLevel>Level4</WarningLevel>
+      <PreprocessorDefinitions>%(PreprocessorDefinitions);WIN32;_WINDOWS;NDEBUG;oflog_EXPORTS;USE_NULL_SAFE_OFSTRING;DCMTK_BUILD_IN_PROGRESS;NOMINMAX;_CRT_FAR_MAPPINGS_NO_DEPRECATE;_CRT_IS_WCTYPE_NO_DEPRECATE;_CRT_MANAGED_FP_NO_DEPRECATE;_CRT_NONSTDC_NO_DEPRECATE;_CRT_SECURE_NO_DEPRECATE;_CRT_SECURE_NO_DEPRECATE_GLOBALS;_CRT_SETERRORMODE_BEEP_SLEEP_NO_DEPRECATE;_CRT_TIME_FUNCTIONS_NO_DEPRECATE;_CRT_VCCLRIT_NO_DEPRECATE;_SCL_SECURE_NO_DEPRECATE;LIBXML_STATIC;_REENTRANT;CMAKE_INTDIR="MinSizeRel"</PreprocessorDefinitions>
+      <ObjectFileName>$(IntDir)</ObjectFileName>
+      <DebugInformationFormat>
+      </DebugInformationFormat>
+      <ScanSourceForModuleDependencies>false</ScanSourceForModuleDependencies>
+    </ClCompile>
+    <ResourceCompile>
+      <PreprocessorDefinitions>%(PreprocessorDefinitions);WIN32;_WINDOWS;NDEBUG;oflog_EXPORTS;USE_NULL_SAFE_OFSTRING;DCMTK_BUILD_IN_PROGRESS;NOMINMAX;_CRT_FAR_MAPPINGS_NO_DEPRECATE;_CRT_IS_WCTYPE_NO_DEPRECATE;_CRT_MANAGED_FP_NO_DEPRECATE;_CRT_NONSTDC_NO_DEPRECATE;_CRT_SECURE_NO_DEPRECATE;_CRT_SECURE_NO_DEPRECATE_GLOBALS;_CRT_SETERRORMODE_BEEP_SLEEP_NO_DEPRECATE;_CRT_TIME_FUNCTIONS_NO_DEPRECATE;_CRT_VCCLRIT_NO_DEPRECATE;_SCL_SECURE_NO_DEPRECATE;LIBXML_STATIC;_REENTRANT;CMAKE_INTDIR=\"MinSizeRel\"</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>C:\Users\sahnn\Downloads\dcmtk-3.6.8\config\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\ofstd\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\oflog\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\oficonv\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmdata\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmimgle\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmimage\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmjpeg\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmjpls\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmtls\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmnet\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmsr\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmsign\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmwlm\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmqrdb\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmpstat\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmrt\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmiod\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmfg\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmseg\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmtract\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmpmap\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmect\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ResourceCompile>
+    <Midl>
+      <AdditionalIncludeDirectories>C:\Users\sahnn\Downloads\dcmtk-3.6.8\config\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\ofstd\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\oflog\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\oficonv\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmdata\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmimgle\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmimage\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmjpeg\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmjpls\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmtls\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmnet\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmsr\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmsign\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmwlm\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmqrdb\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmpstat\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmrt\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmiod\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmfg\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmseg\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmtract\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmpmap\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmect\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+    <Lib>
+      <AdditionalOptions>%(AdditionalOptions) /machine:x64</AdditionalOptions>
+    </Lib>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">
+    <ClCompile>
+      <AdditionalIncludeDirectories>C:\Users\sahnn\Downloads\dcmtk-3.6.8\config\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\ofstd\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\oflog\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\oficonv\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmdata\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmimgle\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmimage\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmjpeg\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmjpls\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmtls\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmnet\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmsr\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmsign\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmwlm\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmqrdb\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmpstat\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmrt\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmiod\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmfg\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmseg\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmtract\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmpmap\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmect\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalOptions>%(AdditionalOptions) /Zc:__cplusplus</AdditionalOptions>
+      <AssemblerListingLocation>$(IntDir)</AssemblerListingLocation>
+      <BasicRuntimeChecks>Default</BasicRuntimeChecks>
+      <DebugInformationFormat>ProgramDatabase</DebugInformationFormat>
+      <ExceptionHandling>Sync</ExceptionHandling>
+      <InlineFunctionExpansion>OnlyExplicitInline</InlineFunctionExpansion>
+      <MinimalRebuild></MinimalRebuild>
+      <Optimization>MaxSpeed</Optimization>
+      <PrecompiledHeader>NotUsing</PrecompiledHeader>
+      <RuntimeLibrary>MultiThreadedDLL</RuntimeLibrary>
+      <SupportJustMyCode></SupportJustMyCode>
+      <UseFullPaths>false</UseFullPaths>
+      <WarningLevel>Level4</WarningLevel>
+      <PreprocessorDefinitions>%(PreprocessorDefinitions);WIN32;_WINDOWS;NDEBUG;oflog_EXPORTS;USE_NULL_SAFE_OFSTRING;DCMTK_BUILD_IN_PROGRESS;NOMINMAX;_CRT_FAR_MAPPINGS_NO_DEPRECATE;_CRT_IS_WCTYPE_NO_DEPRECATE;_CRT_MANAGED_FP_NO_DEPRECATE;_CRT_NONSTDC_NO_DEPRECATE;_CRT_SECURE_NO_DEPRECATE;_CRT_SECURE_NO_DEPRECATE_GLOBALS;_CRT_SETERRORMODE_BEEP_SLEEP_NO_DEPRECATE;_CRT_TIME_FUNCTIONS_NO_DEPRECATE;_CRT_VCCLRIT_NO_DEPRECATE;_SCL_SECURE_NO_DEPRECATE;LIBXML_STATIC;_REENTRANT;CMAKE_INTDIR="RelWithDebInfo"</PreprocessorDefinitions>
+      <ObjectFileName>$(IntDir)</ObjectFileName>
+      <ScanSourceForModuleDependencies>false</ScanSourceForModuleDependencies>
+    </ClCompile>
+    <ResourceCompile>
+      <PreprocessorDefinitions>%(PreprocessorDefinitions);WIN32;_WINDOWS;NDEBUG;oflog_EXPORTS;USE_NULL_SAFE_OFSTRING;DCMTK_BUILD_IN_PROGRESS;NOMINMAX;_CRT_FAR_MAPPINGS_NO_DEPRECATE;_CRT_IS_WCTYPE_NO_DEPRECATE;_CRT_MANAGED_FP_NO_DEPRECATE;_CRT_NONSTDC_NO_DEPRECATE;_CRT_SECURE_NO_DEPRECATE;_CRT_SECURE_NO_DEPRECATE_GLOBALS;_CRT_SETERRORMODE_BEEP_SLEEP_NO_DEPRECATE;_CRT_TIME_FUNCTIONS_NO_DEPRECATE;_CRT_VCCLRIT_NO_DEPRECATE;_SCL_SECURE_NO_DEPRECATE;LIBXML_STATIC;_REENTRANT;CMAKE_INTDIR=\"RelWithDebInfo\"</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>C:\Users\sahnn\Downloads\dcmtk-3.6.8\config\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\ofstd\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\oflog\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\oficonv\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmdata\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmimgle\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmimage\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmjpeg\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmjpls\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmtls\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmnet\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmsr\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmsign\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmwlm\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmqrdb\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmpstat\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmrt\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmiod\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmfg\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmseg\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmtract\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmpmap\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmect\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ResourceCompile>
+    <Midl>
+      <AdditionalIncludeDirectories>C:\Users\sahnn\Downloads\dcmtk-3.6.8\config\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\ofstd\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\oflog\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\oficonv\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmdata\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmimgle\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmimage\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmjpeg\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmjpls\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmtls\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmnet\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmsr\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmsign\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmwlm\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmqrdb\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmpstat\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmrt\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmiod\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmfg\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmseg\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmtract\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmpmap\include;C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\dcmect\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+    <Lib>
+      <AdditionalOptions>%(AdditionalOptions) /machine:x64</AdditionalOptions>
+    </Lib>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\oflog\libsrc\CMakeLists.txt">
+      <UseUtf8Encoding>Always</UseUtf8Encoding>
+      <Message Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Building Custom Rule C:/Users/sahnn/Downloads/dcmtk-3.6.8/dcmtk-3.6.8/oflog/libsrc/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/sahnn/Downloads/dcmtk-3.6.8/dcmtk-3.6.8 -BC:/Users/sahnn/Downloads/dcmtk-3.6.8 --check-stamp-file C:/Users/sahnn/Downloads/dcmtk-3.6.8/oflog/libsrc/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">C:\Users\sahnn\Downloads\dcmtk-3.6.8\oflog\libsrc\CMakeFiles\generate.stamp</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">false</LinkObjects>
+      <Message Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Building Custom Rule C:/Users/sahnn/Downloads/dcmtk-3.6.8/dcmtk-3.6.8/oflog/libsrc/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='Release|x64'">setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/sahnn/Downloads/dcmtk-3.6.8/dcmtk-3.6.8 -BC:/Users/sahnn/Downloads/dcmtk-3.6.8 --check-stamp-file C:/Users/sahnn/Downloads/dcmtk-3.6.8/oflog/libsrc/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">C:\Users\sahnn\Downloads\dcmtk-3.6.8\oflog\libsrc\CMakeFiles\generate.stamp</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Release|x64'">false</LinkObjects>
+      <Message Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">Building Custom Rule C:/Users/sahnn/Downloads/dcmtk-3.6.8/dcmtk-3.6.8/oflog/libsrc/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/sahnn/Downloads/dcmtk-3.6.8/dcmtk-3.6.8 -BC:/Users/sahnn/Downloads/dcmtk-3.6.8 --check-stamp-file C:/Users/sahnn/Downloads/dcmtk-3.6.8/oflog/libsrc/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">C:\Users\sahnn\Downloads\dcmtk-3.6.8\oflog\libsrc\CMakeFiles\generate.stamp</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">false</LinkObjects>
+      <Message Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">Building Custom Rule C:/Users/sahnn/Downloads/dcmtk-3.6.8/dcmtk-3.6.8/oflog/libsrc/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/sahnn/Downloads/dcmtk-3.6.8/dcmtk-3.6.8 -BC:/Users/sahnn/Downloads/dcmtk-3.6.8 --check-stamp-file C:/Users/sahnn/Downloads/dcmtk-3.6.8/oflog/libsrc/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">C:\Users\sahnn\Downloads\dcmtk-3.6.8\oflog\libsrc\CMakeFiles\generate.stamp</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">false</LinkObjects>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\oflog\libsrc\apndimpl.cc" />
+    <ClCompile Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\oflog\libsrc\appender.cc" />
+    <ClCompile Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\oflog\libsrc\asyncap.cc" />
+    <ClCompile Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\oflog\libsrc\clogger.cc" />
+    <ClCompile Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\oflog\libsrc\config.cc" />
+    <ClCompile Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\oflog\libsrc\consap.cc" />
+    <ClCompile Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\oflog\libsrc\cygwin32.cc" />
+    <ClCompile Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\oflog\libsrc\env.cc" />
+    <ClCompile Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\oflog\libsrc\factory.cc" />
+    <ClCompile Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\oflog\libsrc\fileap.cc" />
+    <ClCompile Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\oflog\libsrc\fileinfo.cc" />
+    <ClCompile Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\oflog\libsrc\filter.cc" />
+    <ClCompile Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\oflog\libsrc\globinit.cc" />
+    <ClCompile Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\oflog\libsrc\hierarchy.cc" />
+    <ClCompile Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\oflog\libsrc\hierlock.cc" />
+    <ClCompile Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\oflog\libsrc\layout.cc" />
+    <ClCompile Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\oflog\libsrc\lloguser.cc" />
+    <ClCompile Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\oflog\libsrc\lockfile.cc" />
+    <ClCompile Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\oflog\libsrc\log4judp.cc" />
+    <ClCompile Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\oflog\libsrc\logevent.cc" />
+    <ClCompile Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\oflog\libsrc\logger.cc" />
+    <ClCompile Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\oflog\libsrc\logimpl.cc" />
+    <ClCompile Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\oflog\libsrc\loglevel.cc" />
+    <ClCompile Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\oflog\libsrc\loglog.cc" />
+    <ClCompile Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\oflog\libsrc\logmacro.cc" />
+    <ClCompile Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\oflog\libsrc\mdc.cc" />
+    <ClCompile Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\oflog\libsrc\ndc.cc" />
+    <ClCompile Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\oflog\libsrc\ntelogap.cc" />
+    <ClCompile Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\oflog\libsrc\nullap.cc" />
+    <ClCompile Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\oflog\libsrc\objreg.cc" />
+    <ClCompile Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\oflog\libsrc\oflog.cc" />
+    <ClCompile Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\oflog\libsrc\patlay.cc" />
+    <ClCompile Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\oflog\libsrc\pointer.cc" />
+    <ClCompile Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\oflog\libsrc\property.cc" />
+    <ClCompile Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\oflog\libsrc\queue.cc" />
+    <ClCompile Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\oflog\libsrc\rootlog.cc" />
+    <ClCompile Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\oflog\libsrc\sleep.cc" />
+    <ClCompile Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\oflog\libsrc\snprintf.cc" />
+    <ClCompile Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\oflog\libsrc\sockbuff.cc" />
+    <ClCompile Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\oflog\libsrc\socket.cc" />
+    <ClCompile Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\oflog\libsrc\socketap.cc" />
+    <ClCompile Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\oflog\libsrc\strccloc.cc" />
+    <ClCompile Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\oflog\libsrc\strcloc.cc" />
+    <ClCompile Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\oflog\libsrc\strhelp.cc" />
+    <ClCompile Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\oflog\libsrc\striconv.cc" />
+    <ClCompile Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\oflog\libsrc\syncprims.cc" />
+    <ClCompile Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\oflog\libsrc\syslogap.cc" />
+    <ClCompile Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\oflog\libsrc\threads.cc" />
+    <ClCompile Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\oflog\libsrc\timehelp.cc" />
+    <ClCompile Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\oflog\libsrc\tls.cc" />
+    <ClCompile Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\oflog\libsrc\version.cc" />
+    <ClCompile Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\oflog\libsrc\winsock.cc" />
+    <ClCompile Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\oflog\libsrc\windebap.cc" />
+    <ClCompile Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\dcmtk-3.6.8\oflog\libsrc\winconap.cc" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="C:\Users\sahnn\Downloads\dcmtk-3.6.8\ZERO_CHECK.vcxproj">
+      <Project>{DF6110EE-D3E6-3F40-A841-10133C4C60D6}</Project>
+      <Name>ZERO_CHECK</Name>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>
